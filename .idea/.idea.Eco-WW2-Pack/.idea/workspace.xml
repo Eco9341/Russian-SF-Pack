@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1daaa9c5-129c-4827-a853-6db4ebab1295" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/RussianSFPack/RussianSFPack.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/EcoWW2Pack.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RussianSFPack/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RussianSFPack/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Eco-WW2-Pack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Eco-WW2-Pack/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Eco-WW2-Pack/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Eco-WW2-Pack/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eco-WW2-Pack.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Russian-SF-Pack.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/EcoWW2Pack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/RussianSFPack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/EcoWW2Pack.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Helpers/EcoQuestHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Helpers/EcoQuestHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Carcano1891/carcano1891_mag.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Carcano1891/carcano1891_mag.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Carcano1891/carcano1891_textures.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Carcano1891/carcano1891_textures.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Carcano1891/carcano_filotecnica_scope.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Carcano1891/carcano_filotecnica_scope.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Carcano1891/carcano_m38_textures.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Carcano1891/carcano_m38_textures.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Carcano1891/patron_65x52_fmj.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Carcano1891/patron_65x52_fmj.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Carcano1891/weapon_carcano1891_container.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Carcano1891/weapon_carcano1891_container.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Carcano1891/weapon_carcano_m38_container.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Carcano1891/weapon_carcano_m38_container.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Carcano1891/weapon_carcano_moschetto_container.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Carcano1891/weapon_carcano_moschetto_container.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Cei_Rigotti/cei_rigotti_mag.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Cei_Rigotti/cei_rigotti_mag.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Cei_Rigotti/cei_rigotti_textures.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Cei_Rigotti/cei_rigotti_textures.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Cei_Rigotti/weapon_cei_rigotti_container.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Cei_Rigotti/weapon_cei_rigotti_container.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Kar98K/k98_mag.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Kar98K/k98_mag.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Kar98K/k98_rail.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Kar98K/k98_rail.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Kar98K/k98_rear_sight.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Kar98K/k98_rear_sight.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Kar98K/k98_textures.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Kar98K/k98_textures.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Kar98K/k98_trench_mag.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Kar98K/k98_trench_mag.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Kar98K/k98_zf39_scope.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Kar98K/k98_zf39_scope.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Kar98K/patron_792x57_fmj.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Kar98K/patron_792x57_fmj.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Kar98K/patron_792x57_tracer.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Kar98K/patron_792x57_tracer.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Kar98K/weapon_kar98k_container.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Kar98K/weapon_kar98k_container.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/M1918/m1918a2_bipod.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/M1918/m1918a2_bipod.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/M1918/m1918a2_mag.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/M1918/m1918a2_mag.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/M1918/m1918a2_textures.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/M1918/m1918a2_textures.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/M1918/patron_762x63_ap.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/M1918/patron_762x63_ap.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/M1918/patron_762x63_fmj.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/M1918/patron_762x63_fmj.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/M1918/patron_762x63_jhp.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/M1918/patron_762x63_jhp.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/M1918/patron_762x63_tracer.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/M1918/patron_762x63_tracer.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/M1918/weapon_m1918a2_container.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/M1918/weapon_m1918a2_container.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/RP46/rp46_container.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/RP46/rp46_container.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/RP46/rp46_rail.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/RP46/rp46_rail.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/RP46/rp46_rearsight.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/RP46/rp46_rearsight.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/STG_44/patron_792x33_fmj.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/STG_44/patron_792x33_fmj.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/STG_44/patron_792x33_tracer.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/STG_44/patron_792x33_tracer.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/STG_44/stg44_mag.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/STG_44/stg44_mag.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/STG_44/stg44_rail.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/STG_44/stg44_rail.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/STG_44/stg44_rear_sight.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/STG_44/stg44_rear_sight.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/STG_44/stg44_textures.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/STG_44/stg44_textures.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/STG_44/stg44_zf4_scope.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/STG_44/stg44_zf4_scope.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/STG_44/weapon_stg44_container.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/STG_44/weapon_stg44_container.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Thompsons/thompson_m1928_drum.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Thompsons/thompson_m1928_drum.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Thompsons/thompson_m1928_stick_mag.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Thompsons/thompson_m1928_stick_mag.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Thompsons/thompson_m1928_textures.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Thompsons/thompson_m1928_textures.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Thompsons/weapon_thompson_m1928_container.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Thompsons/weapon_thompson_m1928_container.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/bundles/Mods/Thompsons/weapon_thompson_m1a1_container.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/bundles/Mods/Thompsons/weapon_thompson_m1a1_container.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomAssortSchemes/jaeger_assort.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomAssortSchemes/jaeger_assort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomAssortSchemes/peacekeeper_assort.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomAssortSchemes/peacekeeper_assort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomAssortSchemes/prapor_assort.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomAssortSchemes/prapor_assort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomBotLoadouts/assault.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomBotLoadouts/assault.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/American_Gear/M1918 BAR/M1918A2.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/American_Gear/M1918 BAR/M1918A2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/American_Gear/Thompson/Thompson_M1928.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/American_Gear/Thompson/Thompson_M1928.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/American_Gear/Thompson/Thompson_M1A1.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/American_Gear/Thompson/Thompson_M1A1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/Ammo/ammo_65_52mm_carcano.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/Ammo/ammo_65_52mm_carcano.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/Ammo/ammo_762_63mm.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/Ammo/ammo_762_63mm.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/Ammo/ammo_792x57mm_Mauser.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/Ammo/ammo_792x57mm_Mauser.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/Ammo/ammo_793_33mm_Kurz.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/Ammo/ammo_793_33mm_Kurz.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/German_Gear/Kar98/K98K.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/German_Gear/Kar98/K98K.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/German_Gear/STG44/STG_44.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/German_Gear/STG44/STG_44.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_1891.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_1891.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_M38.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_M38.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_Moschetto.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_Moschetto.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/Italian_Gear/Cei_Rigotti/Cei_Rigotti.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/Italian_Gear/Cei_Rigotti/Cei_Rigotti.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/Resources/db/CustomItems/Russian_Gear/RP46/RP46.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/Resources/db/CustomItems/Russian_Gear/RP46/RP46.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Eco-WW2-Pack.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Eco-WW2-Pack.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Eco-WW2-Pack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Eco-WW2-Pack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Eco-WW2-Pack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Eco-WW2-Pack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Eco-WW2-Pack.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Eco-WW2-Pack.staticwebassets.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/bundles.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/bundles.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomAssortSchemes/jaeger_assort.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomAssortSchemes/jaeger_assort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomAssortSchemes/peacekeeper_assort.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomAssortSchemes/peacekeeper_assort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomAssortSchemes/prapor_assort.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomAssortSchemes/prapor_assort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomBotLoadouts/assault.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomBotLoadouts/assault.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/American_Gear/M1918 BAR/M1918A2.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/American_Gear/M1918 BAR/M1918A2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/American_Gear/Thompson/Thompson_M1928.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/American_Gear/Thompson/Thompson_M1928.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/American_Gear/Thompson/Thompson_M1A1.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/American_Gear/Thompson/Thompson_M1A1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/Ammo/ammo_65_52mm_carcano.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/Ammo/ammo_65_52mm_carcano.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/Ammo/ammo_762_63mm.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/Ammo/ammo_762_63mm.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/Ammo/ammo_792x57mm_Mauser.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/Ammo/ammo_792x57mm_Mauser.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/Ammo/ammo_793_33mm_Kurz.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/Ammo/ammo_793_33mm_Kurz.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/German_Gear/Kar98/K98K.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/German_Gear/Kar98/K98K.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/German_Gear/STG44/STG_44.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/German_Gear/STG44/STG_44.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_1891.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_1891.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_M38.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_M38.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_Moschetto.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/Italian_Gear/Carcano/Carcano_Moschetto.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/Italian_Gear/Cei_Rigotti/Cei_Rigotti.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/Italian_Gear/Cei_Rigotti/Cei_Rigotti.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/bin/Debug/-1.0.2/Resources/db/CustomItems/Russian_Gear/RP46/RP46.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/bin/Debug/-1.0.2/Resources/db/CustomItems/Russian_Gear/RP46/RP46.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/Eco-WW2-Pack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/Eco-WW2-Pack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/Eco-WW2-Pack.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/Eco-WW2-Pack.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/EcoWW2Pack.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/EcoWW2Pack.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/EcoWW2Pack.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/EcoWW2Pack.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/EcoWW2Pack.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/EcoWW2Pack.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/EcoWW2Pack.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/EcoWW2Pack.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/EcoWW2Pack.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/EcoWW2Pack.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/EcoWW2Pack.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/EcoWW2Pack.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/EcoWW2Pack.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/EcoWW2Pack.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/EcoWW2Pack.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/EcoWW2Pack.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/EcoWW2Pack.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/ref/Eco-WW2-Pack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/ref/Eco-WW2-Pack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/refint/Eco-WW2-Pack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/refint/Eco-WW2-Pack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/staticwebassets.build.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/staticwebassets.build.json.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/Debug/swae.build.ex.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/Debug/swae.build.ex.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/EcoWW2Pack.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/EcoWW2Pack.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/EcoWW2Pack.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/EcoWW2Pack.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/EcoWW2Pack.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/EcoWW2Pack.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcoWW2Pack/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/RussianSFPack/obj/rider.project.model.nuget.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/SPT 4.0/MOD_DEV/Eco-WW2-Pack/Eco-WW2-Pack" value="3HaVqveAzXYuwpF0xbBGqlRYm5V" />
+      <entry key="_C:/SPT 4.0/MOD_DEV/Russian-SF-Pack" value="3IJWNen2CQG1QF9BX7IRzgGi6s7" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Eco9341&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Eco9341/tarkovMods.git&quot;,
+    &quot;accountId&quot;: &quot;69589182-e945-4f6b-ab0a-3eb55f0857d5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="351l1OZU584RvTndKfzJv2WPgwe" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1daaa9c5-129c-4827-a853-6db4ebab1295" name="Changes" comment="" />
+      <created>1762285242754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762285242754</updated>
+      <workItem from="1762285243757" duration="170000" />
+      <workItem from="1771529745849" duration="220000" />
+      <workItem from="1771530264995" duration="224000" />
+      <workItem from="1771530608069" duration="26000" />
+      <workItem from="1773696770454" duration="295000" />
+      <workItem from="1775491974654" duration="84000" />
+      <workItem from="1776509145870" duration="3847000" />
+      <workItem from="1776513956709" duration="611000" />
+      <workItem from="1776517702970" duration="57000" />
+      <workItem from="1776540649628" duration="21000" />
+      <workItem from="1776589679486" duration="131000" />
+      <workItem from="1776591104835" duration="1071000" />
+      <workItem from="1776720189277" duration="12000" />
+      <workItem from="1776720268550" duration="183000" />
+      <workItem from="1776720798097" duration="2035000" />
+      <workItem from="1777292186646" duration="124000" />
+      <workItem from="1778412085878" duration="295000" />
+      <workItem from="1778933328579" duration="194000" />
+      <workItem from="1779318629287" duration="175000" />
+      <workItem from="1779318955248" duration="28000" />
+      <workItem from="1779319099492" duration="468000" />
+      <workItem from="1779319918195" duration="8000" />
+      <workItem from="1779319935667" duration="49000" />
+      <workItem from="1779406713721" duration="21000" />
+      <workItem from="1779450481465" duration="36000" />
+      <workItem from="1780703786820" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
