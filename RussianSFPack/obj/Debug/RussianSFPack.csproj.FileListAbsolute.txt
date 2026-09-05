@@ -26,3 +26,7 @@ C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\obj\Debug\Russian-SF-Pack.pdb
 C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\obj\Debug\ref\Russian-SF-Pack.dll
 C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\AM17.json
 C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\AMB17.json
+C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\ADS.json
+C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\AK200.json
+C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\AK205.json
+C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\PP2000.json

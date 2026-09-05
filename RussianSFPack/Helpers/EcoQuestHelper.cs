@@ -19,12 +19,16 @@ namespace RussianSFPack.Helpers
         //shotguns
         
         //smg
+        private const string PP2000 = "6a9ab5e9753eac745a4ce5ca";
 
         //pistols
         
         //rifles 
         private const string AM17 = "6a9417f9e097b0c6ce414793";
         private const string AMB17 = "6a8ada430d43213c92dbe371";
+        private const string ADS = "6a968b0a910dd21fbe9e374b";
+        private const string AK200 = "6a9888aa03930f8d769fde27";
+        private const string AK205 = "6a9954b397425139faf657d3";
         
         //dmr
         
@@ -48,13 +52,13 @@ namespace RussianSFPack.Helpers
             // ]);
 
             // Tickets, Please (64e7b9a4aac4cd0a726562cb)
-             /*questHelper.AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", [
-
-             ]);*/
+            questHelper.AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", [
+                PP2000
+            ]);
 
             // District Patrol (64e7b9bffd30422ed03dad38)
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
-                AM17, AMB17
+                AM17, AMB17, AK200, AK205, ADS
             ]);
 
             // ====================== SKIER QUESTS ======================

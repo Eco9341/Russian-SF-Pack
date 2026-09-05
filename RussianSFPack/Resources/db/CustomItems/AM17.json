@@ -2149,7 +2149,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
+    "addtoModSlots": false,
     "modSlot": [
       "mod_muzzle"
     ],
@@ -2234,7 +2234,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
+    "addtoModSlots": false,
     "modSlot": [
       "mod_muzzle"
     ],

@@ -1,0 +1,1228 @@
+{
+  "6a9ab5e9753eac745a4ce5ca": {
+    "itemTplToClone": "668e71a8dadf42204c032ce1",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PP2000/weapon_pp2000_container.bundle",
+        "rcid": ""
+      },
+      "bFirerate": 800,
+      "Weight": 0.828,
+      "Foldable": false,
+      "Slots": [
+        {
+          "_id": "6680304edadb7aa61d00cef1",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_magazine",
+          "_parent": "6680304edadb7aa61d00cef0",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "6a9b067b5499040aee890f4d",
+                  "6a9b06ad5499040aee890f4f"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "6680304edadb7aa61d00cef3",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "6680304edadb7aa61d00cef0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a9b0cc05499040aee890f59",
+                  "6a9b0cf75499040aee890f5b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "6680304edadb7aa61d00cef4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_reciever",
+          "_parent": "6680304edadb7aa61d00cef0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a9b0c505499040aee890f57"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "66803142e3e7eb26e8004cd6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_barrel",
+          "_parent": "6680304edadb7aa61d00cef0",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a9b0b915499040aee890f55"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": true
+        },
+        {
+          "_id": "668e72351f673d509001b996",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount_000",
+          "_parent": "668e71a8dadf42204c032ce1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a9bf1a6d67da98b239147e3",
+                  "6a9bf1fed67da98b239147e5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "KBP PP-2000 9x19 submachine gun",
+        "shortName": "PP-2000",
+        "description": "The PP-2000 was first publicly displayed at the Interpolytech-2004 exhibition in Moscow even though its patent was filed in 2001 and issued in 2003. In 2008, the PP-2000 was adopted as one of the two standard SMGs of the Russian police (along with the Vityaz-SN). In the beginning of October 2023, it was reported that the PP-2000 would become a part of Russian pilots survival kit."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 140000,
+    "handbookPriceRoubles": 90000,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a9bf628435596cd20ca2e34",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "PP2000",
+        "_parent": "6a9bf628435596cd20ca2e35",
+        "_items": [
+          {
+            "_id": "6a9bf628435596cd20ca2e35",
+            "_tpl": "6a9ab5e9753eac745a4ce5ca",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6a9bf626435596cd20ca2ca7",
+            "_tpl": "6a9b067b5499040aee890f4d",
+            "parentId": "6a9bf628435596cd20ca2e35",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6a9bf626435596cd20ca2ca8",
+            "_tpl": "6a9b0c505499040aee890f57",
+            "parentId": "6a9bf628435596cd20ca2e35",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6a9bf626435596cd20ca2ca9",
+            "_tpl": "6a9b0b915499040aee890f55",
+            "parentId": "6a9bf628435596cd20ca2e35",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6a9bf626435596cd20ca2caa",
+            "_tpl": "6a9b08815499040aee890f53",
+            "parentId": "6a9bf626435596cd20ca2ca9",
+            "slotId": "mod_muzzle"
+          }
+        ],
+        "_encyclopedia": "6a9ab5e9753eac745a4ce5ca"
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a9ab5e9753eac745a4ce5cb": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 600,
+        "Level3": 1300,
+        "Name": "AK74",
+        "Templates": [
+          "678fe4a4906c7bd23722c71f"
+        ]
+      }
+    ]
+  },
+  "6a9b067b5499040aee890f4d": {
+    "itemTplToClone": "668031ffe3e7eb26e8004cdd",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PP2000/pp2000_20rd_mag.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+      ],
+      "Weight": 0.112,
+    "Cartridges": [
+      {
+        "_id": "668031ffe3e7eb26e8004cde",
+        "_max_count": 20,
+        "_name": "cartridges",
+        "_parent": "668031ffe3e7eb26e8004cdd",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5efb0da7a29a85116f6ea05f",
+                "5c3df7d588a4501f290594e5",
+                "58864a4f2459770fcc257101",
+                "56d59d3ad2720bdb418b4577",
+                "5c925fa22e221601da359b7b",
+                "5a3c16fe86f77452b62de32a",
+                "5efb0e16aeb21837e749c7ff",
+                "5c0d56a986f774449d5de529",
+                "64b7bbb74b75259c590fa897"
+              ]
+            }
+          ]
+        },
+        "_proto": "5748538b2459770af276a261"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "PP-2000 9x19 20-round magazine",
+        "shortName": "PP-2000 20rd",
+        "description": "A 20-round magazine for the PP-2000 submachine gun. Manufactured by KBP Instrument Design Bureau"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 1054,
+    "handbookPriceRoubles": 123,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9b067b5499040aee890f4e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1054,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a9b06ad5499040aee890f4f": {
+    "itemTplToClone": "66866f622a2296a8d9099639",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PP2000/pp2000_40rd_mag.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.190,
+      "ConflictingItems": [
+      ],
+    "Cartridges": [
+      {
+        "_id": "668031ffe3e7eb26e8004cde",
+        "_max_count": 44,
+        "_name": "cartridges",
+        "_parent": "668031ffe3e7eb26e8004cdd",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5efb0da7a29a85116f6ea05f",
+                "5c3df7d588a4501f290594e5",
+                "58864a4f2459770fcc257101",
+                "56d59d3ad2720bdb418b4577",
+                "5c925fa22e221601da359b7b",
+                "5a3c16fe86f77452b62de32a",
+                "5efb0e16aeb21837e749c7ff",
+                "5c0d56a986f774449d5de529",
+                "64b7bbb74b75259c590fa897"
+              ]
+            }
+          ]
+        },
+        "_proto": "5748538b2459770af276a261"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "PP-2000 9x19 44-round magazine",
+        "shortName": "PP-2000 44rd",
+        "description": "A 44-round magazine for the PP-2000 submachine gun. Manufactured by KBP Instrument Design Bureau"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 1562,
+    "handbookPriceRoubles": 145,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9b06ad5499040aee890f50": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1562,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a9b08015499040aee890f51": {
+    "itemTplToClone": "58949dea86f77409483e16a8",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PP2000/pp2000_muzzle_thread.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "59985e8f86f77427a674c44d",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "59984ab886f7743e98271174",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5998597786f77414ea6da093",
+                "5998598e86f7740b3f498a86",
+                "59bffc1f86f77435b128b872",
+                "5a9fb739a2750c003215717f",
+                "5c6165902e22160010261b28",
+                "5a32a064c4a28200741e22de",
+                "59bfc5c886f7743bf6794e62"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "PP-2000 9x19 Threaded Muzzle",
+        "shortName": "PP2000",
+        "description": "Threaded muzzle for the PP-2000 submachine gun. Allows attachment of a suppressor."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 3111,
+    "handbookPriceRoubles": 2311,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9b08015499040aee890f52": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3111,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a9b08815499040aee890f53": {
+    "itemTplToClone": "5b3a16655acfc40016387a2a",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PP2000/pp2000_muzzlebreak.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "PP-2000 9x19 Muzzle Brake",
+        "shortName": "PP2000",
+        "description": "Muzzle brake for the PP-2000 submachine gun. Reduces recoil and muzzle rise."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 7848,
+    "handbookPriceRoubles": 2311,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9b08815499040aee890f54": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 7848,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a9b0b915499040aee890f55": {
+    "itemTplToClone": "6686700a2b934a68630a7fe6",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PP2000/pp2000_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a9b08015499040aee890f51",
+                  "6a9b08815499040aee890f53"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+    "ExtraSizeLeft": 0
+    },
+    "locales": {
+      "en": {
+        "name": "PP-2000 9x19 170mm barrel",
+        "shortName": "PP2000 170",
+        "description": "Barrel for the PP-2000 submachine gun, 170mm length."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 5673,
+    "handbookPriceRoubles": 1232,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9b0b915499040aee890f56": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5673,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a9b0c505499040aee890f57": {
+    "itemTplToClone": "6680326874b8f2050c0b9178",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PP2000/pp2000_reciever.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "6680326874b8f2050c0b9179",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope",
+        "_parent": "6680326874b8f2050c0b9178",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "5a37ca54c4a282000d72296a",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "626bb8532c923541184624b4",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "6567e751a715f85433025998",
+                "67641a851b2899700609901a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "PP-2000 dust cover",
+        "shortName": "PP-2000",
+        "description": "Dust cover for the PP-2000 submachine gun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 5260,
+    "handbookPriceRoubles": 1234,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a9b0c505499040aee890f58": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 5260,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a9b0cc05499040aee890f59": {
+    "itemTplToClone": "66867310f3734a938b077f79",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PP2000/pp2000_folding_stock.bundle",
+        "rcid": ""
+      },
+    "BlocksCollapsible": true,
+    "BlocksFolding": true
+    },
+    "locales": {
+      "en": {
+        "name": "PP-2000 Folding Stock",
+        "shortName": "PP-2000",
+        "description": "Folding stock for the PP-2000 submachine gun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 2350,
+    "handbookPriceRoubles": 211,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9b0cc05499040aee890f5a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2350,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a9b0cf75499040aee890f5b": {
+    "itemTplToClone": "668032ba74b8f2050c0b917d",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PP2000/pp2000_fixed_stock.bundle",
+        "rcid": ""
+      },
+    "BlocksCollapsible": true,
+    "BlocksFolding": true
+    },
+    "locales": {
+      "en": {
+        "name": "PP-2000 Fixed stock",
+        "shortName": "PP-2000",
+        "description": "Fixed stock for the PP-2000 submachine gun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 3641,
+    "handbookPriceRoubles": 421,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9b0cf75499040aee890f5c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3641,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a9bf1a6d67da98b239147e3": {
+    "itemTplToClone": "5b7be47f5acfc400170e2dd2",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PP2000/pp2000_bottom_rail.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "5b7be47f5acfc400170e2dd4",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical_000",
+          "_parent": "5b7be47f5acfc400170e2dd2",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a800961159bd4315e3a1657",
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5c06595c0db834001a66af6c",
+                  "5cc9c20cd7f00c001336c65d",
+                  "5d2369418abbc306c62e0c80",
+                  "5b07dd285acfc4001754240d",
+                  "56def37dd2720bec348b456a",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5a5f1ce64f39f90b401987bc",
+                  "560d657b4bdc2da74d8b4572",
+                  "5b3a337e5acfc4704b4a19a0",
+                  "5c5952732e2216398b5abda2",
+                  "57d17e212459775a1179a0f5",
+                  "6267c6396b642f77f56f5c1c",
+                  "6272370ee4013c5d7e31f418",
+                  "6272379924e29f06af4d5ecb",
+                  "626becf9582c3e319310b837",
+                  "644a3df63b0b6f03e101e065",
+                  "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "PP-2000 Bottom rail mount",
+        "shortName": "PP-2000",
+        "description": "Bottom rail mount for the PP-2000 submachine gun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 1033,
+    "handbookPriceRoubles": 231,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9bf1a6d67da98b239147e4": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2056,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6a9bf1fed67da98b239147e5": {
+  "itemTplToClone": "626becf9582c3e319310b837",
+  "parentId": "55818b164bdc2ddc698b456c",
+  "handbookParentId": "5b5f73ab86f774094242f195",
+  "overrideProperties": {
+    "ExaminedByDefault": true,
+    "Prefab": {
+      "path": "Mods/PP2000/pp2000_flashlight.bundle",
+      "rcid": ""
+    },
+      "Weight": 0.964,
+      "ModesCount": 2
+  },
+  "locales": {
+    "en": {
+      "name": "PP-2000 flashlight",
+      "shortName": "PP-2000 Flash",
+      "description": "A tactical flashlight designed for the PP-2000, providing enhanced visibility in low-light conditions."
+    }
+  },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+    "mod_tactical_001",
+    "mod_tactical_002",
+    "mod_tactical_003",
+    "mod_mount_000",
+    "mod_mount_001",
+    "mod_mount_002"
+  ],
+  "fleaPriceRoubles": 18421,
+  "handbookPriceRoubles": 16534,
+  "addtoTraders": true,
+  "addtoBots": false,
+  "addtoStaticLootContainers": true,
+  "staticLootContainers": [
+    {
+      "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+      "probability": 2
+    },
+    {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+      "probability": 2
+    },
+    {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+      "probability": 2
+    },
+    {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+      "probability": 2
+    },
+    {
+      "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+      "probability": 2
+    },
+    {
+      "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+      "probability": 2
+    }
+  ],
+  "masteries": false,
+  "addWeaponPreset": false,
+  "weaponPresets": [],
+  "traders": {
+    "MECHANIC": {
+      "6a9bf1fed67da98b239147e6": {
+        "barterSettings": {
+          "loyalLevel": 2,
+          "unlimitedCount": true,
+          "stackObjectsCount": 99
+        },
+        "barters": [
+          {
+            "count": 22032,
+            "_tpl": "MONEY_ROUBLES"
+          }
+        ]
+      }
+    }
+  },
+  "masterySections": [
+    {
+      "Name": "M4",
+      "Templates": [
+        "4b81488c78c8a8ac7d37f9b9"
+      ]
+    }
+  ]
+  }
+}

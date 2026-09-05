@@ -1,0 +1,392 @@
+{
+  "6a9954b397425139faf657d3": {
+    "itemTplToClone": "6499849fc93611967b034949",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK200/weapon_ak205_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5ac4cd105acfc4001633985c",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_gas_block",
+        "_parent": "5ac4cd105acfc40016339859",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a01ad4786f77450561fda02",
+                "59c6633186f7740cf0493bb9",
+                "59d64ec286f774171d1e0a42",
+                "59e649f986f77411d949b246",
+                "5b237e425acfc4771e1be0b6",
+                "59ccfdba86f7747f2109a587",
+                "5cf656f2d7f00c06585fb6eb",
+                "5d4aab30a4b9365435358c55",
+                "6a98a91603930f8d769fde2b"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "5ac4cd105acfc4001633985e",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "5ac4cd105acfc40016339859",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ac72e945acfc43f3b691116",
+                "5ac7655e5acfc40016339a19",
+                "5649aa744bdc2ded0b8b457e",
+                "5f633f791b231926f2329f13",
+                "5943eeeb86f77412d6384f6b",
+                "5cc9a96cd7f00c011c04e04a",
+                "615d8f5dd92c473c770212ef",
+                "5649ab884bdc2ded0b8b457f",
+                "57dc324a24597759501edc20",
+                "59bffc1f86f77435b128b872",
+                "593d493f86f7745e6b2ceb22",
+                "564caa3d4bdc2d17108b458e",
+                "57ffb0e42459777d047111c5",
+                "5e21ca18e4d47f0da15e77dd",
+                "6a98aafb03930f8d769fde31"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ac4cd105acfc4001633985f",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_pistol_grip",
+        "_parent": "5ac4cd105acfc40016339859",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5f6341043ada5942720e2dc5",
+                "6087e663132d4d12c81fd96b",
+                "623c3be0484b5003161840dc",
+                "5beec8ea0db834001a6f9dbf",
+                "5649ad3f4bdc2df8348b4585",
+                "5649ade84bdc2d1b2b8b4587",
+                "59e62cc886f77440d40b52a1",
+                "5a0071d486f77404e23a12b2",
+                "57e3dba62459770f0c32322b",
+                "5cf54404d7f00c108840b2ef",
+                "5e2192a498a36665e8337386",
+                "5b30ac585acfc433000eb79c",
+                "59e6318286f77444dd62c4cc",
+                "5cf50850d7f00c056e24104c",
+                "5cf508bfd7f00c056e24104e",
+                "628a664bccaab13006640e47",
+                "628c9ab845c59e5b80768a81",
+                "5947f92f86f77427344a76b1",
+                "5947fa2486f77425b47c1a9b",
+                "5c6bf4aa2e2216001219b0ae",
+                "5649ae4a4bdc2d1b2b8b4588",
+                "5998517986f7746017232f7e",
+                "63f4da90f31d4a33b87bd054",
+                "648ae3e356c6310a830fc291",
+                "651580dc71a4f10aec4b6056"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "5ac4cd105acfc40016339860",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_reciever",
+        "_parent": "5ac4cd105acfc40016339859",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a98aa1a03930f8d769fde2f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ac4cd105acfc40016339861",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_rear",
+        "_parent": "5ac4cd105acfc40016339859",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ac733a45acfc400192630e2",
+                "5649b0544bdc2d1b2b8b458a",
+                "5ac72e475acfc400180ae6fe",
+                "628a7b23b0f75035732dd565",
+                "5649d9a14bdc2d79388b4580",
+                "5bf3f59f0db834001a6fa060",
+                "649ec2cec93611967b03495e",
+                "6a98a87303930f8d769fde29"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "6499849fc93611967b034951",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ac50c185acfc400163398d4",
+                "5cf50fc5d7f00c056c53f83c",
+                "5beec8b20db834001961942a",
+                "6386300124a1dc425c00577a",
+                "649ec87d8007560a9001ab36",
+                "6761779c48fa5c377e06fc3f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ac4cd105acfc40016339863",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "5ac4cd105acfc40016339859",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "564ca9df4bdc2d35148b4569",
+                "564ca99c4bdc2d16268b4589",
+                "55d480c04bdc2d1d4e8b456a",
+                "5cbdaf89ae9215000e5b9c94",
+                "55d481904bdc2d8c2f8b456a",
+                "55d482194bdc2d1d4e8b456b",
+                "55d4837c4bdc2d1d4e8b456c",
+                "5aaa4194e5b5b055d06310a5",
+                "5bed61680db834001d2c45ab",
+                "5bed625c0db834001c062946",
+                "649ec30cb013f04a700e60fb",
+                "64b9e265c94d0d15c5027e35"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_id": "5ac4cd105acfc40016339865",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_charge",
+        "_parent": "5ac4cd105acfc40016339859",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6130ca3fd92c473c77020dbd",
+                "5648ac824bdc2ded0b8b457d"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "CenterOfImpact": 0.056,
+    "Ergonomics": 38,
+    "HeatFactorByShot": 1.46,
+    "HeatFactorGun": 1.0295,
+    "OperatingResource": 6200,
+    "RecoilForceBack": 352,
+    "RecoilForceUp": 102,
+    "Weight": 1.992,
+    "Width": 3,
+    "bEffDist": 650,
+    "weapFireType": [
+      "single",
+      "fullauto"
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-205 5.45x39 assault rifle",
+        "shortName": "AK-205",
+        "description": "The AK205, chambered in 5.45x39, was a development of the AK74M model designed to meet the new requirements for the weapon/sights/equipment complex used in modern combat and started the AK20x series of rifles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 50131,
+    "handbookPriceRoubles": 34242,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+{
+  "_id": "6a995a041323358bf8a252d2",
+  "_type": "Preset",
+  "_changeWeaponName": false,
+  "_name": "Ak205",
+  "_parent": "6a995a041323358bf8a252d3",
+  "_items": [
+    {
+      "_id": "6a995a041323358bf8a252d3",
+      "_tpl": "6a9954b397425139faf657d3",
+      "upd": {
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "Foldable": {
+          "Folded": false
+        }
+      }
+    },
+    {
+      "_id": "6a995a021323358bf8a25145",
+      "_tpl": "6a98a91603930f8d769fde2b",
+      "parentId": "6a995a041323358bf8a252d3",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "6a995a021323358bf8a25146",
+      "_tpl": "6a98aafb03930f8d769fde31",
+      "parentId": "6a995a041323358bf8a252d3",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "6a995a021323358bf8a25147",
+      "_tpl": "5beec8ea0db834001a6f9dbf",
+      "parentId": "6a995a041323358bf8a252d3",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_id": "6a995a021323358bf8a25148",
+      "_tpl": "6a98aa1a03930f8d769fde2f",
+      "parentId": "6a995a041323358bf8a252d3",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_id": "6a995a021323358bf8a25149",
+      "_tpl": "6a98a87303930f8d769fde29",
+      "parentId": "6a995a041323358bf8a252d3",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_id": "6a995a021323358bf8a2514a",
+      "_tpl": "649ec87d8007560a9001ab36",
+      "parentId": "6a995a041323358bf8a252d3",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "6a995a021323358bf8a2514b",
+      "_tpl": "5bed61680db834001d2c45ab",
+      "parentId": "6a995a041323358bf8a252d3",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6a995a021323358bf8a2514c",
+      "_tpl": "6a98a9d503930f8d769fde2d",
+      "parentId": "6a995a021323358bf8a25145",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "6a995a021323358bf8a2514d",
+      "_tpl": "5beec8c20db834001d2c465c",
+      "parentId": "6a995a021323358bf8a2514a",
+      "slotId": "mod_stock"
+    }
+  ],
+  "_encyclopedia": "6a9954b397425139faf657d3"
+}
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a9954b397425139faf657d2": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45828,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 2000,
+        "Level3": 2200,
+        "Name": "AK74",
+        "Templates": [
+          "6a9954b397425139faf657d3"
+        ]
+      }
+    ]
+  }
+}

@@ -162,6 +162,224 @@
                 "shaders",
                 "cubemaps"
             ]
+        },
+        {
+            "key": "Mods/ADS/weapon_ads_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "Mods/ADS/ads_ubgl_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "Mods/ADS/ads_muzzle.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/AK200/weapon_ak200_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/AK200/ak200_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK200/weapon_ak205_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/AK200/weapon_ak200_container.bundle",
+                "assets/content/weapons/ak100/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK200/ak200_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/AK200/ak200_dustcover.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK200/ak200_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK200/ak200_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK200/ak200_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK200/ak200_muzzle.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK200/ak200_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK200/ak200_gasblock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK200/ak200_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AK200/ak200_rear_sight.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/AK200/ak200_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/weapon_pp2000_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/PP2000/pp2000_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_20rd_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PP2000/pp2000_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_40rd_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PP2000/pp2000_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_muzzle_thread.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PP2000/pp2000_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_muzzlebreak.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PP2000/pp2000_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PP2000/pp2000_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_reciever.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PP2000/pp2000_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_folding_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PP2000/pp2000_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_fixed_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PP2000/pp2000_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_bottom_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/PP2000/pp2000_flashlight.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
         }
     ]
 }
