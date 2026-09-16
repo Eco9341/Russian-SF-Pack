@@ -1,0 +1,1120 @@
+{
+  "6aa07d6955c3a243f195ed5f": {
+    "itemTplToClone": "5c46fbd72e2216398b5a8c9c",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SVCH/weapon_svch_762x54_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5c46fbd72e2216398b5a8c9e",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_pistol_grip",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aa1c7d0a10e3944e7f07fdd"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "5c46fbd72e2216398b5a8c9f",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "5c471c442e221602b542a6f8",
+                "5c88f24b2e22160bc12c69a6",
+                "6aa1c95fa10e3944e7f07fdf"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_id": "5c46fbd72e2216398b5a8ca0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aa1c72fa10e3944e7f07fd9",
+                "6aa1f17fa10e3944e7f07fe3"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5c46fbd72e2216398b5a8ca2",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_barrel",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aa1c6a6a10e3944e7f07fd8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "55d357484bdc2d882f8b456a",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope_000",
+        "_parent": "55d355e64bdc2d962f8b4569",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "6567e751a715f85433025998",
+                "6761759e7ee06333f108bf86",
+                "67641a851b2899700609901a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "55d35d754bdc2d882f8b456b",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_handguard",
+        "_parent": "55d355e64bdc2d962f8b4569",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aa1c9b4a10e3944e7f07fe1"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "5fbcc3e4d6fa9c00c571bb5d",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_rear",
+        "_parent": "5fbcc3e4d6fa9c00c571bb58",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5bb20e49d4351e3bac1212de",
+                "5ba26b17d4351e00367f9bdd",
+                "5dfa3d7ac41b2312ea33362a",
+                "5c1780312e221602b66cc189",
+                "5fb6564947ce63734e3fa1da",
+                "5bc09a18d4351e003562b68e",
+                "5c18b9192e2216398b5a8104",
+                "5fc0fa957283c4046c58147e",
+                "5894a81786f77427140b8347"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5fd9c705dc911e7ec961c45a",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical_000",
+        "_parent": "5fbcc3e4d6fa9c00c571bb58",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "619502ff6db0f2477964e68a",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope",
+        "_parent": "5fbcc3e4d6fa9c00c571bb58",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5649a2464bdc2d91118b45a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "isChamberLoad": false,
+    "Width": 3,
+    "Foldable": false,
+    "Ergonomics": 46,
+    "isBoltCatch": false,
+    "defMagType": "6aa1c95fa10e3944e7f07fdf"
+    },
+    "locales": {
+      "en": {
+        "name": "Chukavin SVCh 7.62x54R sniper rifle",
+        "shortName": "SVCh",
+        "description": "The SVCh rifle was designed on the basis of the SVK-2016 rifle. It was first presented in 2017 at the military-technical forum “Army-2017”. Russian tests of the Chukavin rifle have been completed in the fall 2021 and the rifle was recommended for adoption. The first deliveries were conducted in September 2022. Long-term contracts have been signed. In November 2022, a decision was made to begin purchasing rifles for the needs of the Russian army. The contract for the first batch was signed by the Ministry of Defence. In February 2023, it was reported that mass-production began by Kalashnikov Concern. The qualification trials were completed on October 6, 2023. Some rifles were supplied in December 2023. Kalashnikov Concern announced they will ramp up the production in 2024 and completed the relevant contract in November 2024. It was adopted by the Russian Interior Ministry in March 2026."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 42800,
+    "handbookPriceRoubles": 32311,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6aa1dcb2bfde339c20d35ace",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "SVCH",
+        "_parent": "6aa1dcb2bfde339c20d35acf",
+        "_items": [
+          {
+            "_id": "6aa1dcb2bfde339c20d35acf",
+            "_tpl": "6aa07d6955c3a243f195ed5f",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6aa1dcafbfde339c20d3592e",
+            "_tpl": "6aa1c7d0a10e3944e7f07fdd",
+            "parentId": "6aa1dcb2bfde339c20d35acf",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6aa1dcafbfde339c20d3592f",
+            "_tpl": "6aa1c95fa10e3944e7f07fdf",
+            "parentId": "6aa1dcb2bfde339c20d35acf",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6aa1dcafbfde339c20d35930",
+            "_tpl": "6aa1c72fa10e3944e7f07fd9",
+            "parentId": "6aa1dcb2bfde339c20d35acf",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6aa1dcafbfde339c20d35931",
+            "_tpl": "6aa1c6a6a10e3944e7f07fd8",
+            "parentId": "6aa1dcb2bfde339c20d35acf",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6aa1dcafbfde339c20d35932",
+            "_tpl": "6aa1c9b4a10e3944e7f07fe1",
+            "parentId": "6aa1dcb2bfde339c20d35acf",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6aa1dcafbfde339c20d35933",
+            "_tpl": "5bc09a18d4351e003562b68e",
+            "parentId": "6aa1dcb2bfde339c20d35acf",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6aa1dcafbfde339c20d35934",
+            "_tpl": "6aa1c782a10e3944e7f07fdb",
+            "parentId": "6aa1dcafbfde339c20d35931",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6aa1dcafbfde339c20d35935",
+            "_tpl": "5bc09a30d4351e00367fb7c8",
+            "parentId": "6aa1dcafbfde339c20d35932",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          }
+        ],
+        "_encyclopedia": "6aa07d6955c3a243f195ed5f"
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6aa07d6955c3a243f195ed60": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 250,
+        "Level3": 300,
+        "Name": "SVD",
+        "Templates": [
+          "6aa07d6955c3a243f195ed5f"
+        ]
+      }
+    ]
+  },
+  "6aa1c6a6a10e3944e7f07fd8": {
+    "itemTplToClone": "5c471cb32e221602b177afaa",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVCH/svch_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "62c6dd965795677ad39019f6",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "2d354131a3d7dfa66a6b7d11",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6aa1c782a10e3944e7f07fdb",
+                  "5e01ea19e9dc277128008c0b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+    "CenterOfImpact": 0.046,
+    "ExtraSizeLeft": 1
+    },
+    "locales": {
+      "en": {
+        "name": "SVCh 7.62x54R 450mm barrel",
+        "shortName": "SVCh 450",
+        "description": "Barrel for the SVCh rifle, 450mm length."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 34113,
+    "handbookPriceRoubles": 12331,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aa1c6a6a10e3944e7f07fd7": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 34113,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aa1c72fa10e3944e7f07fd9": {
+    "itemTplToClone": "5a33cae9c4a28232980eb086",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVCH/svch_stock.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeRight": 1
+    },
+    "locales": {
+      "en": {
+        "name": "SVCh Polymer Stock",
+        "shortName": "SVCh",
+        "description": "Stock for the SVCh rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 17094,
+    "handbookPriceRoubles": 8521,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aa1c72fa10e3944e7f07fda": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 17094,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aa1f17fa10e3944e7f07fe3": {
+    "itemTplToClone": "668672b8c99550c6fd0f0b29",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVCH/svch_picatinny_stock.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5fbcc1d9016cce60e8341ab8",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "5fbcc1d9016cce60e8341ab3",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "58ac1bf086f77420ed183f9f",
+                "5894a13e86f7742405482982",
+                "5fbcc429900b1d5091531dd7",
+                "5fbcc437d724d907e2077d5c",
+                "5c5db6ee2e221600113fba54",
+                "5c5db6f82e2216003a0fe914",
+                "6529348224cbe3c74a05e5c4",
+                "6761496fe2cf1419500357e9"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "SVCh Picatinny Stock adapter",
+        "shortName": "SVCh",
+        "description": "Picatinny Stock adapter for the SVCh rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 8642,
+    "handbookPriceRoubles": 3211,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aa1f17fa10e3944e7f07fe4": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 8642,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aa1c782a10e3944e7f07fdb": {
+    "itemTplToClone": "5c471bfc2e221602b21d4e17",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVCH/svch_muzzle.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "SVCh 7.62x54R muzzle brake",
+        "shortName": "SVCh",
+        "description": "Muzzle brake for the SVCh rifle. Reduces recoil and muzzle rise."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 11800,
+    "handbookPriceRoubles": 7532,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aa1c782a10e3944e7f07fdc": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 13452,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aa1c7d0a10e3944e7f07fdd": {
+    "itemTplToClone": "628a664bccaab13006640e47",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVCH/svch_grip.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "SVCh Pistol Grip",
+        "shortName": "SVCh",
+        "description": "Pistol grip for the SVCh rifle. Improves ergonomics and handling."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 7500,
+    "handbookPriceRoubles": 3421,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aa1c7d0a10e3944e7f07fde": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 7500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "6aa1c95fa10e3944e7f07fdf": {
+    "itemTplToClone": "5c471c442e221602b542a6f8",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVCH/svch_mag.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.065
+    },
+    "locales": {
+      "en": {
+        "name": "SVCh 7.62x54R 10-round magazine",
+        "shortName": "SVCh 10rd",
+        "description": "A 10-round 7.62x54R polymer magazine for SVD-based rifles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5332,
+    "handbookPriceRoubles": 2331,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aa1c95fa10e3944e7f07fe0": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5332,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6aa1c9b4a10e3944e7f07fe1": {
+    "itemTplToClone": "5c471c6c2e221602b66cd9ae",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SVCH/svch_handguard.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5ea16ada09aa976f2e7a51c0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c1",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_001",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c5",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_foregrip",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57cffb66245977632f391a99",
+                "57cffcd624597763133760c5",
+                "57cffcdd24597763f5110006",
+                "57cffce524597763b31685d8",
+                "5b7be4895acfc400170e2dd5",
+                "651a8bf3a8520e48047bf708",
+                "651a8e529829226ceb67c319",
+                "665d5d9e338229cfd6078da1",
+                "665edce564fb556f940ab32a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c6",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_front",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c2",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_002",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb",
+                "671126b049e181972e0681fa"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "SVCh polymer handguard",
+        "shortName": "SVCh",
+        "description": "Polymer handguard for the SVCh rifle. Provides M-lok for mounting accessories and improves ergonomics."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 34752,
+    "handbookPriceRoubles": 21203,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6aa1c9b4a10e3944e7f07fe2": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 63852,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

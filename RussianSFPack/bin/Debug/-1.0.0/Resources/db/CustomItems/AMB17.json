@@ -274,7 +274,8 @@
     "CoolFactorGunMods": 1.014,
     "DurabilityBurnRatio": 1.15,
     "BaseMalfunctionChance": 0.1771,
-    "bFirerate": 700
+    "bFirerate": 700,
+    "CompactHandling": false
     },
     "locales": {
       "en": {

@@ -117,8 +117,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 140000,
-    "handbookPriceRoubles": 90000,
+    "fleaPriceRoubles": 12334,
+    "handbookPriceRoubles": 4452,
     "addtoTraders": false,
     "masteries": false,
     "addWeaponPreset": true,
@@ -193,9 +193,9 @@
       {
         "Level2": 600,
         "Level3": 1300,
-        "Name": "AK74",
+        "Name": "PP2000",
         "Templates": [
-          "678fe4a4906c7bd23722c71f"
+          "6a9ab5e9753eac745a4ce5ca"
         ]
       }
     ]
@@ -248,7 +248,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
+    "addtoModSlots": false,
     "modSlot": [
       "mod_magazine"
     ],
@@ -352,7 +352,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
+    "addtoModSlots": false,
     "modSlot": [
       "mod_magazine"
     ],

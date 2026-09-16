@@ -30,3 +30,8 @@ C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\C
 C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\AK200.json
 C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\AK205.json
 C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\PP2000.json
+C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\A762.json
+C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\PLK.json
+C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\SVCH.json
+C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\SVDM.json
+C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.0\Resources\db\CustomItems\VEPR12.json

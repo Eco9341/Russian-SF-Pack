@@ -1,0 +1,1227 @@
+{
+  "6aa9bd88a1ebc11ab0a6b50c": {
+    "itemTplToClone": "5c46fbd72e2216398b5a8c9c",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SVDM/weapon_svdm_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5c46fbd72e2216398b5a8c9e",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_pistol_grip",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c471be12e221602b66cd9ac",
+                "6516b129609aaf354b34b3a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "5c46fbd72e2216398b5a8c9f",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "5c471c442e221602b542a6f8",
+                "5c88f24b2e22160bc12c69a6"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_id": "5c46fbd72e2216398b5a8ca0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5c471b5d2e221602b21d4e14",
+                "6197b229af1f5202c57a9bea"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5c46fbd72e2216398b5a8ca2",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_barrel",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aaac1c0e4cb78c569b193bd"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "5c471d672e22164bef5d0784",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_000",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5947db3f86f77447880cf76f",
+                "57486e672459770abd687134",
+                "618a5d5852ecee1505530b2a",
+                "5cf638cbd7f00c06595bc936",
+                "5a7c74b3e899ef0014332c29",
+                "591ee00d86f774592f7b841e",
+                "5e569a2e56edd02abe09f280",
+                "5d0a29ead7ad1a0026013f27",
+                "618a75c9a3884f56c957ca1b",
+                "57acb6222459771ec34b5cb0",
+                "5c61a40d2e2216001403158d",
+                "5c90c3622e221601da359851",
+                "638db77630c4240f9e06f8b6",
+                "63d114019e35b334d82302f7",
+                "6544d4187c5457729210d277",
+                "65f1b1176dbd6c5ba2082eed"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5c471d722e221602b66cd9b0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_001",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aaac481e4cb78c569b193c5"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "5c4722852e221602b3137e73",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_reciever",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aaac890e4cb78c569b193cd"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "5c79128e2e221644f31bfb31",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_002",
+        "_parent": "5c46fbd72e2216398b5a8c9c",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6113d6c3290d254f5e6b27db",
+                "5c82342f2e221644f31c060e",
+                "576fd4ec2459777f0b518431",
+                "5c82343a2e221644f31c0611",
+                "5dff8db859400025ea5150d4"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "SVDM 7.62x54R sniper rifle",
+        "shortName": "SVDM",
+        "description": "The 7.62 mm SVDM is a modernized version of the combat-proven SVD with improved performance. The SVDM is designed to engage enemy personnel and other unarmored targets at ranges up to 800 m. It features reliable gas-operated action with a short-stroke piston and gas regulator. It is different from the SVD in having all wooden parts replaced with plastic ones, a folding skeletonized buttstock with an adjustable heel and a removable cheek riser to make using scopes easier, and an ergonomic pistol grip that is no more an integral part of the buttstock."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 42800,
+    "handbookPriceRoubles": 32311,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6aaace8c00496ba27842c50f",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "SVDM",
+        "_parent": "6aaace8c00496ba27842c510",
+        "_items": [
+          {
+            "_id": "6aaace8c00496ba27842c510",
+            "_tpl": "6aa9bd88a1ebc11ab0a6b50c",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "6aaace8800496ba27842c360",
+            "_tpl": "5c471be12e221602b66cd9ac",
+            "parentId": "6aaace8c00496ba27842c510",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6aaace8800496ba27842c361",
+            "_tpl": "5c471c442e221602b542a6f8",
+            "parentId": "6aaace8c00496ba27842c510",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6aaace8800496ba27842c362",
+            "_tpl": "6aaac273e4cb78c569b193bf",
+            "parentId": "6aaace8c00496ba27842c510",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6aaace8800496ba27842c363",
+            "_tpl": "6aaac1c0e4cb78c569b193bd",
+            "parentId": "6aaace8c00496ba27842c510",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6aaace8800496ba27842c364",
+            "_tpl": "6aaac481e4cb78c569b193c5",
+            "parentId": "6aaace8c00496ba27842c510",
+            "slotId": "mod_mount_001"
+          },
+          {
+            "_id": "6aaace8800496ba27842c365",
+            "_tpl": "6aaac890e4cb78c569b193cd",
+            "parentId": "6aaace8c00496ba27842c510",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6aaace8800496ba27842c366",
+            "_tpl": "6aaac3b5e4cb78c569b193c1",
+            "parentId": "6aaace8800496ba27842c363",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6aaace8800496ba27842c367",
+            "_tpl": "6aaac5eae4cb78c569b193cb",
+            "parentId": "6aaace8800496ba27842c363",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "6aaace8800496ba27842c368",
+            "_tpl": "6aaac436e4cb78c569b193c3",
+            "parentId": "6aaace8800496ba27842c364",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6aaace8800496ba27842c369",
+            "_tpl": "6aaac531e4cb78c569b193c7",
+            "parentId": "6aaace8800496ba27842c364",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6aaace8800496ba27842c36a",
+            "_tpl": "5d0a29fed7ad1a002769ad08",
+            "parentId": "6aaace8800496ba27842c365",
+            "slotId": "mod_scope_000"
+          },
+          {
+            "_id": "6aaace8800496ba27842c36b",
+            "_tpl": "6aaac588e4cb78c569b193c9",
+            "parentId": "6aaace8800496ba27842c367",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6aaace8800496ba27842c36c",
+            "_tpl": "5d0a3e8cd7ad1a6f6a3d35bd",
+            "parentId": "6aaace8800496ba27842c36a",
+            "slotId": "mod_scope",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          }
+        ],
+        "_encyclopedia": "6aa9bd88a1ebc11ab0a6b50c"
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6aa9bd88a1ebc11ab0a6b50d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 250,
+        "Level3": 300,
+        "Name": "SVD",
+        "Templates": [
+          "6aa9bd88a1ebc11ab0a6b50c"
+        ]
+      }
+    ]
+  },
+  "6aaac1c0e4cb78c569b193bd": {
+    "itemTplToClone": "5c471cb32e221602b177afaa",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVDM/svdm_barrel.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5c471cb32e221602b177afac",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "5c471cb32e221602b177afaa",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aaac3b5e4cb78c569b193c1"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5c471cb32e221602b177afad",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_gas_block",
+        "_parent": "5c471cb32e221602b177afaa",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aaac5eae4cb78c569b193cb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      }
+    ],
+    "Weight": 1.22,
+    "Ergonomics": -11,
+    "Recoil": -10,
+    "CenterOfImpact": 0.023
+    },
+    "locales": {
+      "en": {
+        "name": "SVDM 7.62x54R 565mm barrel",
+        "shortName": "SVDM 565",
+        "description": "A 565mm barrel for the SVDM sniper rifle chambered in 7.62x54R ammo."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 34113,
+    "handbookPriceRoubles": 12331,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aaac1c0e4cb78c569b193be": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 34113,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aaac273e4cb78c569b193bf": {
+    "itemTplToClone": "5c471b5d2e221602b21d4e14",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVDM/svdm_stock.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeRight": 1
+    },
+    "locales": {
+      "en": {
+        "name": "SVDM polymer stock",
+        "shortName": "SVDM",
+        "description": "A polymer stock for SVDM sniper rifles, manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 1626,
+    "handbookPriceRoubles": 232,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aaac273e4cb78c569b193c0": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1626,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aaac3b5e4cb78c569b193c1": {
+    "itemTplToClone": "5c471bfc2e221602b21d4e17",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVDM/svdm_muzzle.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "SVDM 7.62x54R muzzle brake",
+        "shortName": "SVDM",
+        "description": "A standard Izhmash-produced muzzle brake and compensator for the SVDM."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 602,
+    "handbookPriceRoubles": 232,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aaac3b5e4cb78c569b193c2": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 602,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aaac436e4cb78c569b193c3": {
+    "itemTplToClone": "5c471c6c2e221602b66cd9ae",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SVDM/svdm_handguard.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "SVDM polymer handguard",
+        "shortName": "SVDM",
+        "description": "A polymer handguard for the SVDM sniper rifle that replaced the classic wooden one. Manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 1580,
+    "handbookPriceRoubles": 232,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6aaac436e4cb78c569b193c4": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 1580,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6aaac481e4cb78c569b193c5": {
+    "itemTplToClone": "5c471c2d2e22164bef5d077f",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SVDM/svdm_handguard_mount.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5c471e662e22161b267d9bd0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_handguard",
+        "_parent": "5c471c2d2e22164bef5d077f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5e5699df2161e06ac158df6f",
+                "5e56991336989c75ab4f03f6",
+                "6aaac436e4cb78c569b193c3"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "5c47256b2e221602b3137e84",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_rear",
+        "_parent": "5c471c2d2e22164bef5d077f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aaac531e4cb78c569b193c7"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "SVDM front trunnion",
+        "shortName": "SVDM",
+        "description": "A standard front trunnion for SVDM sniper rifles and compatibles, allows installation of rear sights."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 5588,
+    "handbookPriceRoubles": 1231,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6aaac481e4cb78c569b193c6": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 5588,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6aaac531e4cb78c569b193c7": {
+    "itemTplToClone": "5c471b7e2e2216152006e46c",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SVDM/svdm_rear.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "SVDM rear sight",
+        "shortName": "SVDM RS",
+        "description": "A standard-issue rear sight for the SVDM sniper rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 878,
+    "handbookPriceRoubles": 211,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aaac531e4cb78c569b193c8": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 878,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aaac588e4cb78c569b193c9": {
+    "itemTplToClone": "5c471ba12e221602b3137d76",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SVDM/svdm_front_sight.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "SVDM front sight",
+        "shortName": "SVDM FS",
+        "description": "A standard-issue front sight for SVDM sniper rifles, manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 524,
+    "handbookPriceRoubles": 21,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aaac588e4cb78c569b193ca": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 524,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aaac5eae4cb78c569b193cb": {
+    "itemTplToClone": "5c471c842e221615214259b5",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SVDM/svdm_gasblock.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "5c471e2b2e221602b21d4f13",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_sight_front",
+          "_parent": "5c471bfc2e221602b21d4e17",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6aaac588e4cb78c569b193c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "VPO-205 polymer upper handguard",
+        "shortName": "VPO-205",
+        "description": "Polymer upper handguard for the VPO-205 semi-automatic shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_gas_block"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 2520,
+    "handbookPriceRoubles": 1000,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6aaac5eae4cb78c569b193cc": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2520,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6aaac890e4cb78c569b193cd": {
+    "itemTplToClone": "5c471bd12e221602b4129c3a",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/SVDM/svdm_dustcover.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "649ec2f3961514b22506b112",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope_000",
+        "_parent": "649ec2f3961514b22506b111",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6478641c19d732620e045e17",
+                "6477772ea8a38bb2050ed4db",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "6567e751a715f85433025998",
+                "67641a851b2899700609901a",
+                "6761759e7ee06333f108bf86"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "Ergonomics": 3,
+    "Weight": 0.121
+    },
+    "locales": {
+      "en": {
+        "name": "SVDS Railed dust cover",
+        "shortName": "SVDM",
+        "description": "A standard-issue dust cover for SVDM sniper rifles, manufactured by Izhmash."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 3694,
+    "handbookPriceRoubles": 1234,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6aaac890e4cb78c569b193ce": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 4027,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

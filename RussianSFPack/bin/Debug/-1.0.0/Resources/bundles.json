@@ -380,6 +380,482 @@
                 "shaders",
                 "cubemaps"
             ]
+        },
+        {
+            "key": "Mods/A762/weapon_a762_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/A762/a762_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/A762/a762_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/A762/a762_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/A762/a762_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/A762/a762_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/A762/a762_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/A762/a762_muzzle.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/A762/a762_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PLK/weapon_plk_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/PLK/plk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PLK/plk_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/PLK/plk_slide.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PLK/plk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PLK/plk_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PLK/plk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PLK/plk_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/PLK/plk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/PLK/plk_reflex_mount.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/content/items/mods/sights rear/sight_rear_hk_red_dot_mount.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVCH/weapon_svch_762x54_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/SVCH/svch_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVCH/svch_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/SVCH/svch_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVCH/svch_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVCH/svch_muzzle.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVCH/svch_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVCH/svch_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVCH/svch_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVCH/svch_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVCH/svch_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVCH/svch_picatinny_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVCH/svch_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVCH/svch_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVCH/svch_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVCH/svch_grip.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVCH/svch_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/weapon_vepr12_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr12_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_20rd_drum.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_25_drum.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_buffer_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_dustcover.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_keymod_long_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_keymod_medium_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_long_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_sport_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_long_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_mlok_long_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_mlok_medium_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_picatinny_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_pistolgrip.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_short_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_short_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_standard_lower_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_standard_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_wood_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_zenitco_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_standard_gasblock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_railed_gasblock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VEPR12/vepr_muzzle.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VEPR12/vepr12_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/weapon_svdm_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/SVDM/svdm_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVDM/svdm_textures.bundle",
+                "assets/content/items/mods/barrels/barrel_svd_izhmash_565mm_762x54.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_dustcover.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVDM/svdm_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_front_sight.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVDM/svdm_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_gasblock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVDM/svdm_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVDM/svdm_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_handguard_mount.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVDM/svdm_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_muzzle.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVDM/svdm_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_rear.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVDM/svdm_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/SVDM/svdm_textures.bundle"
+            ]
         }
     ]
 }

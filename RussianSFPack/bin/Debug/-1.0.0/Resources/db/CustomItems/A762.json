@@ -1,0 +1,692 @@
+{
+  "6a9d77d61b88e55ada72f237": {
+    "itemTplToClone": "5ac66d725acfc43b321d4b60",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/A762/weapon_a762_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5ac66d725acfc43b321d4b65",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "5ac66d725acfc43b321d4b60",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a9da44e1b88e55ada72f23b"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ac66d725acfc43b321d4b68",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_rear",
+        "_parent": "5ac66d725acfc43b321d4b60",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ac733a45acfc400192630e2",
+                "5649b0544bdc2d1b2b8b458a",
+                "5ac72e475acfc400180ae6fe",
+                "5649d9a14bdc2d79388b4580",
+                "628a7b23b0f75035732dd565",
+                "649ec2cec93611967b03495e",
+                "5bf3f59f0db834001a6fa060"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ac66d725acfc43b321d4b69",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "5ac66d725acfc43b321d4b60",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a9da3be1b88e55ada72f239"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ac66d725acfc43b321d4b6a",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "5ac66d725acfc43b321d4b60",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "59e5d83b86f7745aed03d262",
+                "5a01c29586f77474660c694c",
+                "5ac66bea5acfc43b321d4aec",
+                "59d625f086f774661516605d",
+                "5b1fd4e35acfc40018633c39",
+                "5a0060fc86f7745793204432",
+                "59e5f5a486f7746c530b3ce2",
+                "5b1fb3e15acfc4001637f068",
+                "59d6272486f77466146386ff",
+                "5e21a3c67e40bd02257a008a",
+                "5cbdc23eae9215001136a407",
+                "5c6175362e221600133e3b94",
+                "59fafc5086f7740dbe19f6c3",
+                "59fafc9386f774067d462453",
+                "5cfe8010d7ad1a59283b14c6",
+                "6272874a6c47bd74f92e2087",
+                "64b9cf0ac12b9c38db26923a"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_id": "5ac66d725acfc43b321d4b6c",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_charge",
+        "_parent": "5ac66d725acfc43b321d4b60",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6130ca3fd92c473c77020dbd",
+                "5648ac824bdc2ded0b8b457d"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "59c663e986f7740cfb39760a",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_handguard",
+        "_parent": "59c6633186f7740cf0493bb9",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a9da6591b88e55ada72f23d"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "55d357484bdc2d882f8b456a",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope_000",
+        "_parent": "55d355e64bdc2d962f8b4569",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "6567e751a715f85433025998",
+                "6761759e7ee06333f108bf86",
+                "67641a851b2899700609901a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c3",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c3",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical_001",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5c06595c0db834001a66af6c",
+                "5cc9c20cd7f00c001336c65d",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5a5f1ce64f39f90b401987bc",
+                "560d657b4bdc2da74d8b4572",
+                "5b3a337e5acfc4704b4a19a0",
+                "5c5952732e2216398b5abda2",
+                "57d17e212459775a1179a0f5",
+                "6267c6396b642f77f56f5c1c",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb",
+                "626becf9582c3e319310b837",
+                "644a3df63b0b6f03e101e065",
+                "646f6322f43d0c5d62063715"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+        "bFirerate": 900,
+        "SingleFireRate": 450,
+        "Ergonomics": 54,
+        "RecoilForceBack": 257,
+        "RecoilForceUp": 102,
+        "HeatfactorByShot": 1.37,
+        "Weight": 3.1,
+        "BurstShotsCount": 2,
+        "CompactHandling": false,
+        "weapFireType": [
+            "single",
+            "burst",
+            "fullauto"
+        ],
+        "Width": 3
+    },
+    "locales": {
+      "en": {
+        "name": "KMZ A-762 Kord 7.62x39 assault rifle",
+        "shortName": "A-762 Kord",
+        "description": "The 6P67 KORD and 6P68 KORD were developed for the Ratnik trials on 23 December 2014 and are based on the AEK-971 and AEK-973 respectively. The 6P67 KORD and 6P68 KORD feature numerous internal and external improvements over their predecessors and were later adopted by the special forces units (Spetsnaz) of the Russian Armed Forces."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 140000,
+    "handbookPriceRoubles": 90000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a9dca3bb95515735c02ec30",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "A762",
+        "_parent": "6a9dca3bb95515735c02ec31",
+        "_items": [
+          {
+            "_id": "6a9dca3bb95515735c02ec31",
+            "_tpl": "6a9d77d61b88e55ada72f237",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "6a9dca38b95515735c02ea9d",
+            "_tpl": "6a9da44e1b88e55ada72f23b",
+            "parentId": "6a9dca3bb95515735c02ec31",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6a9dca38b95515735c02ea9e",
+            "_tpl": "5ac733a45acfc400192630e2",
+            "parentId": "6a9dca3bb95515735c02ec31",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a9dca38b95515735c02ea9f",
+            "_tpl": "6a9da3be1b88e55ada72f239",
+            "parentId": "6a9dca3bb95515735c02ec31",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6a9dca38b95515735c02eaa0",
+            "_tpl": "5ac66bea5acfc43b321d4aec",
+            "parentId": "6a9dca3bb95515735c02ec31",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6a9dca38b95515735c02eaa1",
+            "_tpl": "6a9da6591b88e55ada72f23d",
+            "parentId": "6a9dca3bb95515735c02ec31",
+            "slotId": "mod_handguard"
+          }
+        ],
+        "_encyclopedia": "6a9d77d61b88e55ada72f237"
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a9d77d61b88e55ada72f238": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45828,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 2000,
+        "Level3": 2200,
+        "Name": "AK74",
+        "Templates": [
+          "6a9d77d61b88e55ada72f237"
+        ]
+      }
+    ]
+  },
+  "6a9da3be1b88e55ada72f239": {
+      "itemTplToClone": "57dc347d245977596754e7a1",
+      "parentId": "55818a594bdc2db9688b456a",
+      "handbookParentId": "5b5f757486f774093e6cb507",
+      "overrideProperties": {
+      "Prefab": {
+          "path": "Mods/A762/a762_stock.bundle",
+          "rcid": ""
+      },
+      "Slots": [],
+      "Loudness": 0,
+      "Ergonomics": 2,
+      "Recoil": -14,
+      "Weight": 0.09,
+      "ExaminedByDefault": true
+      },
+      "locales": {
+      "en": {
+          "name": "A-762 Folding Stock",
+          "shortName": "A-762",
+          "description": "The Standard stock for the A-762 assault rifle."
+      }
+      },
+      "addtoInventorySlots": [],
+      "addtoModSlots": false,
+      "modSlot": [
+      "mod_stock"
+      ],
+      "addtoTraders": true,
+      "fleaPriceRoubles": 12424,
+      "handbookPriceRoubles": 11233,
+      "addtoStaticLootContainers": true,
+      "staticLootContainers": [
+      {
+          "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+          "probability": 7
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+          "probability": 6
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+          "probability": 5
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+          "probability": 1
+      }
+      ],
+      "traders": {
+      "PRAPOR": {
+          "6a9da3be1b88e55ada72f23a": {
+          "barterSettings": {
+              "loyalLevel": 3,
+              "unlimitedCount": true,
+              "stackObjectsCount": 99
+          },
+          "barters": [
+              {
+              "count": 15324,
+              "_tpl": "MONEY_ROUBLES"
+              }
+          ]
+          }
+      }
+      }
+  },
+  "6a9da44e1b88e55ada72f23b": {
+      "itemTplToClone": "5649aa744bdc2ded0b8b457e",
+      "parentId": "550aa4bf4bdc2dd6348b456b",
+      "handbookParentId": "5b5f724c86f774093f2ecf15",
+      "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+          "path": "Mods/A762/a762_muzzle.bundle",
+          "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+      },
+      "locales": {
+      "en": {
+          "name": "A-762 Flash Hider",
+          "shortName": "A-762 FH",
+          "description": "The standard-issue 7.62x39 flash hider for the A-762 assault rifle"
+      }
+      },
+      "addtoInventorySlots": [],
+      "addtoModSlots": false,
+      "modSlot": [
+      "mod_sight_rear"
+      ],
+      "fleaPriceRoubles": 1340,
+      "handbookPriceRoubles": 867,
+      "addtoTraders": true,
+      "addtoBots": false,
+      "addtoStaticLootContainers": true,
+      "staticLootContainers": [
+      {
+          "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+          "probability": 1
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+          "probability": 1
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+          "probability": 1
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+          "probability": 1
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+          "probability": 1
+      },
+      {
+          "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+          "probability": 1
+      }
+      ],
+      "masteries": false,
+      "addWeaponPreset": false,
+      "weaponPresets": [],
+      "traders": {
+      "PRAPOR": {
+          "6a9da44e1b88e55ada72f23c": {
+          "barterSettings": {
+              "loyalLevel": 3,
+              "unlimitedCount": true,
+              "stackObjectsCount": 99
+          },
+          "barters": [
+              {
+              "count": 1876,
+              "_tpl": "MONEY_ROUBLES"
+              }
+          ]
+          }
+      }
+      },
+      "masterySections": [
+      {
+          "Name": "M4",
+          "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+          ]
+      }
+      ]
+  },
+  "6a9da6591b88e55ada72f23d": {
+      "itemTplToClone": "5648b1504bdc2d9d488b4584",
+      "parentId": "55818a104bdc2db9688b4569",
+      "handbookParentId": "5b5f75e486f77447ec5d7712",
+      "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+          "path": "Mods/A762/a762_handguard.bundle",
+          "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5ea16ada09aa976f2e7a51c5",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_foregrip",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be4895acfc400170e2dd5"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+      },
+      "locales": {
+      "en": {
+          "name": "A-762 polymer handguard",
+          "shortName": "A-762",
+          "description": "The standard-issue polymer handguard for the A-762 assault rifle"
+      }
+      },
+      "addtoInventorySlots": [],
+      "addtoModSlots": false,
+      "modSlot": [
+      "mod_sight_rear"
+      ],
+      "fleaPriceRoubles": 1022,
+      "handbookPriceRoubles": 334,
+      "addtoTraders": true,
+      "addtoBots": false,
+      "addtoStaticLootContainers": true,
+      "staticLootContainers": [
+      {
+          "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+          "probability": 1
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+          "probability": 1
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+          "probability": 1
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+          "probability": 1
+      },
+      {
+          "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+          "probability": 1
+      },
+      {
+          "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+          "probability": 1
+      }
+      ],
+      "masteries": false,
+      "addWeaponPreset": false,
+      "weaponPresets": [],
+      "traders": {
+      "PRAPOR": {
+          "6a9da6591b88e55ada72f23e": {
+          "barterSettings": {
+              "loyalLevel": 3,
+              "unlimitedCount": true,
+              "stackObjectsCount": 99
+          },
+          "barters": [
+              {
+              "count": 1022,
+              "_tpl": "MONEY_ROUBLES"
+              }
+          ]
+          }
+      }
+      },
+      "masterySections": [
+      {
+          "Name": "M4",
+          "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+          ]
+      }
+      ]
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "6a9e7c7ba77d4b62cecda25a": {
+    "itemTplToClone": "602a9740da11d6478d5a06dc",
+    "parentId": "5447b5cf4bdc2d65278b4567",
+    "handbookParentId": "5b5f792486f77447ed5636b3",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PLK/weapon_plk_container.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.39,
+    "RecoilForceBack": 245,
+    "RecoilForceUp": 299,
+    "Slots": [
+      {
+        "_id": "602a9740da11d6478d5a06de",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_barrel",
+        "_parent": "602a9740da11d6478d5a06dc",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a9e8a31a77d4b62cecda25d"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "602a9740da11d6478d5a06e0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_reciever",
+        "_parent": "602a9740da11d6478d5a06dc",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a9e89a3a77d4b62cecda25b"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "602a9740da11d6478d5a06e1",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "602a9740da11d6478d5a06dc",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": 0,
+              "Filter": [
+                "6a9e8a71a77d4b62cecda25f"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_id": "602a9740da11d6478d5a06e2",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical",
+        "_parent": "602a9740da11d6478d5a06dc",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a800961159bd4315e3a1657",
+                "5d2369418abbc306c62e0c80",
+                "5b07dd285acfc4001754240d",
+                "56def37dd2720bec348b456a",
+                "5a7b483fe899ef0016170d15",
+                "5a7b4900e899ef197b331a2a",
+                "6272370ee4013c5d7e31f418",
+                "6272379924e29f06af4d5ecb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "Lebedev PLK 9x19 Compact pistol",
+        "shortName": "PLK",
+        "description": "The compact PLK pistol is the first compact Russian-made sidearm chambered for 9x19 mm cartridges. The pistol allows using the full range of 9x19 mm combat, sporting and other cartridges, including 7N21 high-power armor-piercing cartridges. The compact size of the PLK makes it easy for concealed carry. Ambidextrous controls (safety, slide stop and magazine release button) allow for efficient right- and left-handed operation."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 7100,
+    "handbookPriceRoubles": 1231,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+        "_id": "6a9ebe53e1a8f59074ac32d6",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "PLK",
+        "_parent": "6a9ebe53e1a8f59074ac32d7",
+        "_items": [
+            {
+            "_id": "6a9ebe53e1a8f59074ac32d7",
+            "_tpl": "6a9e7c7ba77d4b62cecda25a",
+            "upd": {
+                "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+                },
+                "FireMode": {
+                "FireMode": "single"
+                }
+            }
+            },
+            {
+            "_id": "6a9ebe50e1a8f59074ac313e",
+            "_tpl": "6a9e8a31a77d4b62cecda25d",
+            "parentId": "6a9ebe53e1a8f59074ac32d7",
+            "slotId": "mod_barrel"
+            },
+            {
+            "_id": "6a9ebe50e1a8f59074ac313f",
+            "_tpl": "6a9e89a3a77d4b62cecda25b",
+            "parentId": "6a9ebe53e1a8f59074ac32d7",
+            "slotId": "mod_reciever"
+            },
+            {
+            "_id": "6a9ebe50e1a8f59074ac3140",
+            "_tpl": "6a9e8a71a77d4b62cecda25f",
+            "parentId": "6a9ebe53e1a8f59074ac32d7",
+            "slotId": "mod_magazine"
+            },
+            {
+            "_id": "6a9ebe50e1a8f59074ac3141",
+            "_tpl": "60229948cacb6b0506369e27",
+            "parentId": "6a9ebe50e1a8f59074ac313f",
+            "slotId": "mod_sight_rear",
+            "upd": {
+                "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                    0
+                ],
+                "ScopesSelectedModes": [
+                    0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+                }
+            }
+            },
+            {
+            "_id": "6a9ebe50e1a8f59074ac3142",
+            "_tpl": "60228a76d62c9b14ed777a66",
+            "parentId": "6a9ebe50e1a8f59074ac313f",
+            "slotId": "mod_sight_front",
+            "upd": {
+                "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                    0
+                ],
+                "ScopesSelectedModes": [
+                    0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+                }
+            }
+            }
+        ],
+        "_encyclopedia": "6a9e7c7ba77d4b62cecda25a"
+        }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a9e7c7ba77d4b62cecda259": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45828,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 75,
+        "Level3": 100,
+        "Name": "PL15",
+        "Templates": [
+          "6a9e7c7ba77d4b62cecda25a"
+        ]
+      }
+    ]
+  },
+  "6a9e89a3a77d4b62cecda25b": {
+    "itemTplToClone": "60228924961b8d75ee233c32",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PLK/plk_slide.bundle",
+        "rcid": ""
+      },
+        "Slots": [
+        {
+            "_id": "60228925961b8d75ee233c34",
+            "_mergeSlotWithChildren": false,
+            "_name": "mod_sight_rear",
+            "_parent": "60228924961b8d75ee233c32",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "60229948cacb6b0506369e27",
+                    "602293f023506e50807090cb",
+                    "6a9ea420a77d4b62cecda261"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_proto": "55d30c4c4bdc2db4468b457e",
+            "_required": false
+        },
+        {
+            "_id": "60228925961b8d75ee233c35",
+            "_mergeSlotWithChildren": false,
+            "_name": "mod_sight_front",
+            "_parent": "60228924961b8d75ee233c32",
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "60228a76d62c9b14ed777a66",
+                    "60228a850ddce744014caf69"
+                ],
+                "Shift": 0
+                }
+            ]
+            },
+            "_proto": "55d30c4c4bdc2db4468b457e",
+            "_required": false
+        }
+        ]
+    },
+    "locales": {
+      "en": {
+        "name": "PLK pistol slide",
+        "shortName": "PLK Slide",
+        "description": "the slide for the PLK pistol."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 3900,
+    "handbookPriceRoubles": 2311,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9e89a3a77d4b62cecda25c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3900,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "6a9e8a31a77d4b62cecda25d": {
+    "itemTplToClone": "602a95edda11d6478d5a06da",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PLK/plk_barrel.bundle",
+        "rcid": ""
+      },
+    "CenterOfImpact": 0.35
+    },
+    "locales": {
+      "en": {
+        "name": "PLK 9x19 92mm barrel",
+        "shortName": "PLK 92mm",
+        "description": "A standard barrel for the PLK pistol, chambered in 9x19."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 2563,
+    "handbookPriceRoubles": 1252,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9e8a31a77d4b62cecda25e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2563,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "6a9e8a71a77d4b62cecda25f": {
+    "itemTplToClone": "602286df23506e50807090c6",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PLK/plk_mag.bundle",
+        "rcid": ""
+      },
+        "Cartridges": [
+        {
+            "_name": "cartridges",
+            "_id": "5cadc2e0ae9215051e1c21e9",
+            "_parent": "5cadc2e0ae9215051e1c21e7",
+            "_max_count": 14,
+            "_props": {
+            "filters": [
+                {
+                "Filter": [
+                    "5efb0da7a29a85116f6ea05f",
+                    "5c3df7d588a4501f290594e5",
+                    "58864a4f2459770fcc257101",
+                    "56d59d3ad2720bdb418b4577",
+                    "5c925fa22e221601da359b7b",
+                    "5a3c16fe86f77452b62de32a",
+                    "5efb0e16aeb21837e749c7ff",
+                    "5c0d56a986f774449d5de529",
+                    "64b7bbb74b75259c590fa897"
+                ]
+                }
+            ]
+            },
+            "_proto": "5748538b2459770af276a261"
+        }
+        ],
+        "Weight": 0.071
+    },
+    "locales": {
+      "en": {
+        "name": "PLK 9x19 14-round magazine",
+        "shortName": "PLK",
+        "description": "A standard-issue 14-round magazine for the PLK 9x19 pistol."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 1376,
+    "handbookPriceRoubles": 646,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9e8a71a77d4b62cecda260": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1500,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  },
+  "6a9ea420a77d4b62cecda261": {
+    "itemTplToClone": "61963a852d2c397d660036ad",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/PLK/plk_reflex_mount.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "PLK Red Dot sight mount",
+        "shortName": "PLK RD",
+        "description": "A rear sight mount allows the installation of Burris Fast Fire, Docter, and other similar reflex sights."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 2800,
+    "handbookPriceRoubles": 1233,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6a9ea420a77d4b62cecda262": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2800,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": []
+  }
+}
