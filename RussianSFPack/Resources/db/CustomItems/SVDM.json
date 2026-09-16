@@ -8,6 +8,7 @@
         "path": "Mods/SVDM/weapon_svdm_container.bundle",
         "rcid": ""
       },
+      "Weight": 1.92,
     "Slots": [
       {
         "_id": "5c46fbd72e2216398b5a8c9e",
@@ -383,7 +384,8 @@
           "filters": [
             {
               "Filter": [
-                "6aaac3b5e4cb78c569b193c1"
+                "6aaac3b5e4cb78c569b193c1",
+                "6aa1c782a10e3944e7f07fdb"
               ],
               "Shift": 0
             }
@@ -665,6 +667,24 @@
         "rcid": ""
       },
     "Slots": [
+      {
+        "_id": "61faaaa4236a9954fd4e94df",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_bipod",
+        "_parent": "61faa91878830f069b6b7967",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aab0fa9e4cb78c569b193cf"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
     ]
     },
     "locales": {
@@ -1217,6 +1237,81 @@
           "barters": [
             {
               "count": 4027,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6aab0fa9e4cb78c569b193cf": {
+    "itemTplToClone": "56ea8222d2720b69698b4567",
+    "parentId": "55818afb4bdc2dde698b456d",
+    "handbookParentId": "5b5f71c186f77409407a7ec0",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/SVDM/svdm_bipod.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "SVDM Bipod",
+        "shortName": "SVDM",
+        "description": "A bipod for the SVDM sniper rifle"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 2780,
+    "handbookPriceRoubles": 1233,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6aab0fa9e4cb78c569b193d0": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3452,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

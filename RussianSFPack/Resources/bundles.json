@@ -856,6 +856,13 @@
                 "cubemaps",
                 "Mods/SVDM/svdm_textures.bundle"
             ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_bipod.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
         }
     ]
 }
