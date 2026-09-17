@@ -1,47 +1,42 @@
-﻿using RussianSFPack.Helpers;
+﻿using System.Reflection;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
-using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Spt.Mod;
-using SPTarkov.Server.Core.Services;
-using System.Reflection;
-using WTTServerCommonLib.Helpers;
 using WTTServerCommonLib.Models;
-using WTTServerCommonLib.Services;
 using Range = SemanticVersioning.Range;
+using RussianSFPack.Helpers;
 
 namespace RussianSFPack;
 
-public record ModMetadata : AbstractModMetadata
+public record ModMetadata : IModMetadata
 {
-    public override string ModGuid { get; init; } = "com.wtt.russiansfpack";
-    public override string Name { get; init; } = "Russian-SF-Pack";
-    public override string Author { get; init; } = "Eco";
-    public override List<string>? Contributors { get; init; } = null;
-    public override SemanticVersioning.Version Version { get; init; } = new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
-    public override Range SptVersion { get; init; } = new("~4.0.13");
-    public override List<string>? Incompatibilities { get; init; }
-    public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
+    public string ModGuid { get; init; } = "com.wtt.russiansfpack";
+    public string Name { get; init; } = "Russian-SF-Pack";
+    public string Author { get; init; } = "Eco";
+    public List<string>? Contributors { get; init; } = null;
+    public SemanticVersioning.Version Version { get; init; } = new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
+    public Range SptVersion { get; init; } = new("~4.1.5");
+    public List<string>? Incompatibilities { get; init; }
+    public Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        { "com.wtt.commonlib", new Range("~2.0.24") }
+        { "com.wtt.commonlib", new Range("~3.0.6") }
     };
-    public override string? Url { get; init; }
-    public override bool? IsBundleMod { get; init; } = true;
-    public override string License { get; init; } = "MIT";
+    public string? Url { get; init; }
+    public bool HasPrepatcher { get; init; } = false;
+    public string License { get; init; } = "MIT";
 }
 
 
-[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
+[Injectable(TypePriority = OnLoadOrder.Preload + 2)]
 public class RussianSFPack(
     WTTServerCommonLib.WTTServerCommonLib wttCommon,
     EcoQuestHelper ecoQuestHelper) : IOnLoad
 {
-    public async Task OnLoad()
+    public async Task OnLoadAsync(CancellationToken cancellationToken)
     {
         Assembly assembly = Assembly.GetExecutingAssembly();
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
         await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
         ecoQuestHelper.ModifyQuests();
-        await Task.CompletedTask;
     }
 }
