@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SPT 4.1\\MOD_DEV\\Russian-SF-Pack\\RussianSFPack\\RussianSFPack.csproj": {}
+    "C:\\SPT 4.0\\MOD_DEV\\Russian-SF-Pack\\RussianSFPack\\RussianSFPack.csproj": {}
   },
   "projects": {
-    "C:\\SPT 4.1\\MOD_DEV\\Russian-SF-Pack\\RussianSFPack\\RussianSFPack.csproj": {
+    "C:\\SPT 4.0\\MOD_DEV\\Russian-SF-Pack\\RussianSFPack\\RussianSFPack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SPT 4.1\\MOD_DEV\\Russian-SF-Pack\\RussianSFPack\\RussianSFPack.csproj",
+        "projectUniqueName": "C:\\SPT 4.0\\MOD_DEV\\Russian-SF-Pack\\RussianSFPack\\RussianSFPack.csproj",
         "projectName": "Russian-SF-Pack",
-        "projectPath": "C:\\SPT 4.1\\MOD_DEV\\Russian-SF-Pack\\RussianSFPack\\RussianSFPack.csproj",
+        "projectPath": "C:\\SPT 4.0\\MOD_DEV\\Russian-SF-Pack\\RussianSFPack\\RussianSFPack.csproj",
         "packagesPath": "C:\\Users\\mastr\\.nuget\\packages\\",
-        "outputPath": "C:\\SPT 4.1\\MOD_DEV\\Russian-SF-Pack\\RussianSFPack\\obj\\",
+        "outputPath": "C:\\SPT 4.0\\MOD_DEV\\Russian-SF-Pack\\RussianSFPack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mastr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net10.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net10.0": {
-            "framework": "net10.0",
-            "targetAlias": "net10.0",
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -37,30 +37,30 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
-        "net10.0": {
-          "framework": "net10.0",
-          "targetAlias": "net10.0",
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
           "dependencies": {
-            "SPTushonka.Common": {
+            "SPTarkov.Common": {
               "target": "Package",
-              "version": "[4.1.5, )"
+              "version": "[4.0.13, )"
             },
-            "SPTushonka.DI": {
+            "SPTarkov.DI": {
               "target": "Package",
-              "version": "[4.1.5, )"
+              "version": "[4.0.13, )"
             },
-            "SPTushonka.Server.Core": {
+            "SPTarkov.Server.Core": {
               "target": "Package",
-              "version": "[4.1.5, )"
+              "version": "[4.0.13, )"
             },
             "WTT-ServerCommonLib": {
               "target": "Package",
-              "version": "[3.0.6, )"
+              "version": "[2.0.24, )"
             }
           },
           "imports": [
@@ -74,6 +74,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.18, 9.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.18, 9.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.18, 9.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
