@@ -2,7 +2,6 @@
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Spt.Mod;
-using WTTServerCommonLib.Models;
 using Range = SemanticVersioning.Range;
 using RussianSFPack.Helpers;
 
@@ -15,7 +14,7 @@ public record ModMetadata : IModMetadata
     public string Author { get; init; } = "Eco";
     public List<string>? Contributors { get; init; } = null;
     public SemanticVersioning.Version Version { get; init; } = new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
-    public Range SptVersion { get; init; } = new("~4.1.5");
+    public Range SptVersion { get; init; } = new("~4.1.6");
     public List<string>? Incompatibilities { get; init; }
     public Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {

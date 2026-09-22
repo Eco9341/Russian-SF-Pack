@@ -14,7 +14,8 @@ namespace RussianSFPack.Helpers
         // ReSharper disable InconsistentNaming
         // ReSharper disable IdentifierTypo
         //snipers
-
+        private const string VSSK = "6aac31fac35219b1cf4d2a84";
+        
         //shotguns
         private const string VEPR12 = "6aa59cd69d536417f3e88939";
         
@@ -83,9 +84,9 @@ namespace RussianSFPack.Helpers
             ]);
 
             // Connections Up North (6764174c86addd02bc033d68)
-            /*questHelper.AddWeaponsToKillCondition(quests, "6764174c86addd02bc033d68", [
-
-            ]);*/
+            questHelper.AddWeaponsToKillCondition(quests, "6764174c86addd02bc033d68", [
+              VSSK
+            ]);
 
             // ====================== PEACEKEEPER QUESTS ======================
 
@@ -101,26 +102,26 @@ namespace RussianSFPack.Helpers
 
             // ====================== JAEGER QUESTS ======================
 
-//             /*var tarkovShooterWeapons = new[]
-//             {
-//
-//             };
-//
-//             // Tarkov Shooter Part 1-8 (WEAPONS)
-//             questHelper.AddWeaponsToKillCondition(quests, "5bc4776586f774512d07cf05", tarkovShooterWeapons); // Part 1
-//             questHelper.AddWeaponsToKillCondition(quests, "5bc479e586f7747f376c7da3", tarkovShooterWeapons); // Part 2
-//             questHelper.AddWeaponsToKillCondition(quests, "5bc47dbf86f7741ee74e93b9", tarkovShooterWeapons); // Part 3
-//             questHelper.AddWeaponsToKillCondition(quests, "5bc480a686f7741af0342e29", tarkovShooterWeapons); // Part 4
-//             questHelper.AddWeaponsToKillCondition(quests, "5bc4826c86f774106d22d88b", tarkovShooterWeapons); // Part 5
-//             questHelper.AddWeaponsToKillCondition(quests, "5bc4836986f7740c0152911c", tarkovShooterWeapons); // Part 6
-//             questHelper.AddWeaponsToKillCondition(quests, "5bc4856986f77454c317bea7", tarkovShooterWeapons); // Part 7
-//             questHelper.AddWeaponsToKillCondition(quests, "5bc4893c86f774626f5ebf3e", tarkovShooterWeapons); // Part 8
-//
-//             // Tarkov Shooter Part 1-8 (MODS)
-//             
-//             // Part 1
-//             
-//             // Part 7
+            var tarkovShooterWeapons = new[]
+            {
+                VSSK
+            };
+
+            // Tarkov Shooter Part 1-8 (WEAPONS)
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4776586f774512d07cf05", tarkovShooterWeapons); // Part 1
+            questHelper.AddWeaponsToKillCondition(quests, "5bc479e586f7747f376c7da3", tarkovShooterWeapons); // Part 2
+            questHelper.AddWeaponsToKillCondition(quests, "5bc47dbf86f7741ee74e93b9", tarkovShooterWeapons); // Part 3
+            questHelper.AddWeaponsToKillCondition(quests, "5bc480a686f7741af0342e29", tarkovShooterWeapons); // Part 4
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4826c86f774106d22d88b", tarkovShooterWeapons); // Part 5
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4836986f7740c0152911c", tarkovShooterWeapons); // Part 6
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4856986f77454c317bea7", tarkovShooterWeapons); // Part 7
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4893c86f774626f5ebf3e", tarkovShooterWeapons); // Part 8
+
+            // Tarkov Shooter Part 1-8 (MODS)
+            
+            // Part 1
+            
+            // Part 7
 //
 //
 //             
@@ -131,15 +132,15 @@ namespace RussianSFPack.Helpers
 //
 //             // ====================== MECHANIC QUESTS ======================
 //
-//             // Psycho Sniper (5c0be13186f7746f016734aa)
-//             questHelper.AddWeaponsToKillCondition(quests, "5c0be13186f7746f016734aa", [
-//
-//             ]);
-//
-//             // Shooter Born in Heaven (5c0bde0986f77479cf22c2f8)
-//             questHelper.AddWeaponsToKillCondition(quests, "5c0bde0986f77479cf22c2f8", [
-//
-//             ]);*/
+            // Psycho Sniper (5c0be13186f7746f016734aa)
+            questHelper.AddWeaponsToKillCondition(quests, "5c0be13186f7746f016734aa", [
+                VSSK
+            ]);
+
+            // Shooter Born in Heaven (5c0bde0986f77479cf22c2f8)
+            questHelper.AddWeaponsToKillCondition(quests, "5c0bde0986f77479cf22c2f8", [
+                VSSK
+            ]);
 
             // Make Amends Equipment (6261482fa4eb80027c4f2e11)
             questHelper.AddWeaponsToFindOrHandoverCondition(quests, "6261482fa4eb80027c4f2e11", [
