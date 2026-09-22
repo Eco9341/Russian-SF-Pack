@@ -225,6 +225,7 @@
         "_required": false
       }
     ],
+    "FoldedSlot": "mod_stock",
     "CenterOfImpact": 0.056,
     "Ergonomics": 38,
     "HeatFactorByShot": 1.46,

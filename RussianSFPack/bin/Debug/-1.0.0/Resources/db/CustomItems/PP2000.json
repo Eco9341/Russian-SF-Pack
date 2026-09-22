@@ -120,7 +120,7 @@
     "fleaPriceRoubles": 12334,
     "handbookPriceRoubles": 4452,
     "addtoTraders": false,
-    "masteries": false,
+    "masteries": true,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -526,7 +526,9 @@
       "Prefab": {
         "path": "Mods/PP2000/pp2000_muzzlebreak.bundle",
         "rcid": ""
-      }
+      },
+    "Slots": [
+    ]
     },
     "locales": {
       "en": {
@@ -852,6 +854,8 @@
         "path": "Mods/PP2000/pp2000_folding_stock.bundle",
         "rcid": ""
       },
+    "Slots": [
+    ],
     "BlocksCollapsible": true,
     "BlocksFolding": true
     },
@@ -937,6 +941,8 @@
         "path": "Mods/PP2000/pp2000_fixed_stock.bundle",
         "rcid": ""
       },
+    "Slots": [
+    ],
     "BlocksCollapsible": true,
     "BlocksFolding": true
     },

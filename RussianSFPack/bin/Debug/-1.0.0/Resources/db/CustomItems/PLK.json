@@ -323,6 +323,8 @@
         "path": "Mods/PLK/plk_barrel.bundle",
         "rcid": ""
       },
+    "Slots": [
+    ],
     "CenterOfImpact": 0.35
     },
     "locales": {

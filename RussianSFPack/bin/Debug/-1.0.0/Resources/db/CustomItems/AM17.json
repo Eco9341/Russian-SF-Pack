@@ -1311,7 +1311,7 @@
         "path": "Mods/AM17/am17_260_barrel.bundle",
         "rcid": ""
       },
-      "CenterOfImpact": 0.085,
+      "CenterOfImpact": 0.081,
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false,
       "Slots": [
@@ -1739,6 +1739,8 @@
         "path": "Mods/AM17/am17_stock.bundle",
         "rcid": ""
       },
+    "Slots": [
+    ],
       "Ergonomics": 3,
       "Recoil": -18,
       "Weight": 0.2,
@@ -2139,6 +2141,8 @@
         "path": "Mods/AM17/am17_muzzlebreak.bundle",
         "rcid": ""
       },
+    "Slots": [
+    ],
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false
     },

@@ -856,6 +856,151 @@
                 "cubemaps",
                 "Mods/SVDM/svdm_textures.bundle"
             ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_bipod.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/SVDM/svdm_silencer.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/weapon_vssk_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/vssk_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/vssk_front_sight.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/vssk_long_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/vssk_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/vssk_muzzleflash.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/vssk_rear.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/vssk_short_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/vssk_silencer.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/patron_12,7x55_st130pt.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/patron_12,7x55_st130vps.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/VSSK/vssk_bipod.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/VSSK/vssk_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/AKS74U/b11_b19n_zenitco_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/AR15_Handguard/zenitco_joker_handguard.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/Mounts/zenitco_b2u_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/Mounts/zenitco_b2_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
         }
     ]
 }

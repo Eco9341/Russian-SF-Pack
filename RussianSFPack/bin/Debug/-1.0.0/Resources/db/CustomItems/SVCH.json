@@ -277,7 +277,7 @@
     "fleaPriceRoubles": 42800,
     "handbookPriceRoubles": 32311,
     "addtoTraders": false,
-    "masteries": false,
+    "masteries": true,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -426,7 +426,8 @@
               {
                 "Filter": [
                   "6aa1c782a10e3944e7f07fdb",
-                  "5e01ea19e9dc277128008c0b"
+                  "6aaac3b5e4cb78c569b193c1",
+                  "6aad7ea990af71bf0b0d263c"
                 ],
                 "Shift": 0
               }
@@ -521,6 +522,8 @@
         "path": "Mods/SVCH/svch_stock.bundle",
         "rcid": ""
       },
+    "Slots": [
+    ],
       "ExtraSizeRight": 1
     },
     "locales": {
@@ -710,7 +713,9 @@
       "Prefab": {
         "path": "Mods/SVCH/svch_muzzle.bundle",
         "rcid": ""
-      }
+      },
+    "Slots": [
+    ]
     },
     "locales": {
       "en": {

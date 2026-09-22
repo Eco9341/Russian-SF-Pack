@@ -1,0 +1,991 @@
+{
+  "6aac31fac35219b1cf4d2a84": {
+    "itemTplToClone": "5cadfbf7ae92152ac412eeef",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/VSSK/weapon_vssk_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_id": "5cadfbf7ae92152ac412eef4",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_barrel",
+        "_parent": "5cadfbf7ae92152ac412eeef",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6ab04d66b07a9b85e5577d0a",
+                "6ab052b6b07a9b85e5577d10"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5cadfbf7ae92152ac412eef7",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_rear",
+        "_parent": "5cadfbf7ae92152ac412eeef",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6ab05441b07a9b85e5577d16"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5cadfbf7ae92152ac412eef9",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "5cadfbf7ae92152ac412eeef",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "6ab0539fb07a9b85e5577d12"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_id": "5caf1bc1ae921576eb05cc77",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_front",
+        "_parent": "5cadfbf7ae92152ac412eeef",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6ab053d1b07a9b85e5577d14"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5cc08743ae921547db318b9b",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope",
+        "_parent": "5cadfbf7ae92152ac412eeef",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5caf1691ae92152ac412efb9",
+                "5dfe6104585a0c3e995c7b82",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "626bb8532c923541184624b4",
+                "62811f461d5df4475f46a332",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "67641a851b2899700609901a",
+                "6761759e7ee06333f108bf86",
+                "6567e751a715f85433025998"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5cc087c9ae921547db318b9c",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical_002",
+        "_parent": "5cadfbf7ae92152ac412eeef",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "59e0be5d86f7742d48765bd2"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "61faaaa4236a9954fd4e94df",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_bipod",
+        "_parent": "61faa91878830f069b6b7967",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6ab06ad9b07a9b85e5577d18"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "CenterOfImpact": 0.01,
+    "Weight": 4.45,
+    "weapFireType": [
+      "single"
+    ],
+    "Chambers": [
+      {
+        "_id": "5cadfbf7ae92152ac412eef1",
+        "_mergeSlotWithChildren": false,
+        "_name": "patron_in_weapon",
+        "_parent": "5cadfbf7ae92152ac412eeef",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6ab04b7fb07a9b85e5577d03",
+                "6ab04c9ab07a9b85e5577d06"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d4af244bdc2d962f8b4571",
+        "_required": false
+      }
+    ],
+    "defAmmo": "6ab04b7fb07a9b85e5577d03",
+    "defMagType": "5caf1041ae92157c28402e3f",
+    "AllowFeed": false,
+    "AllowJam": false,
+    "AllowOverheat": false,
+    "AllowSlide": false
+    },
+    "locales": {
+      "en": {
+        "name": "VKS Vykhlop 12.7x55 bolt-action sniper rifle",
+        "shortName": "VSSK",
+        "description": "VKS (ВКС) or VSSK (ВССК) is a Russian bullpup, straight pull, magazine-fed sniper rifle chambered for the 12.7×55mm STs-130 subsonic round. The weapon is also known by the name VSSK and the additional name Vykhlop (Выхлоп), \"Exhaust\", which comes from the development program. It was developed in around 2002 for the special force units of FSB. The 12.7×55mm VKS silenced sniper rifle is intended for special operations that require silent firing and penetration much superior to that provided by 9×39mm VSS silenced sniper rifle. Typical targets for the VKS are combatants in heavy body armor or behind cover. The weapon uses an integral suppressor."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 140000,
+    "handbookPriceRoubles": 90000,
+    "addtoTraders": true,
+    "masteries": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aac31fac35219b1cf4d2a83": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 175,
+        "Level3": 400,
+        "Name": "VSSK",
+        "Templates": [
+          "6aac31fac35219b1cf4d2a84"
+        ]
+      }
+    ]
+  },
+  "6ab04d66b07a9b85e5577d0a": {
+    "itemTplToClone": "67d4178bffb910d21f04720a",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/VSSK/vssk_short_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      {
+        "_id": "57616dbd2459773c7a400236",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "576165642459773c7a400233",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6ab05288b07a9b85e5577d0e"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+      ],
+    "CenterOfImpact": 0.066,
+    "Weight": 0.82,
+    "Width": 3,
+    "Ergonomics": 4,
+    "ExtraSizeLeft": 0
+    },
+    "locales": {
+      "en": {
+        "name": "VKS Vykhlop 12.7x55 450mm barrel",
+        "shortName": "Vykhlop 450",
+        "description": "Barrel for the VKS Vykhlop rifle, 450mm length."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 34211,
+    "handbookPriceRoubles": 12331,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6ab04d66b07a9b85e5577d0b": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 34211,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6ab052b6b07a9b85e5577d10": {
+    "itemTplToClone": "67d4178bffb910d21f04720a",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/VSSK/vssk_long_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      {
+        "_id": "57616dbd2459773c7a400236",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "576165642459773c7a400233",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6ab051dcb07a9b85e5577d0c"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+      ],
+    "Weight": 1.32,
+    "Recoil": -9,
+    "Width": 3,
+    "CenterOfImpact": 0.037,
+    "ExtraSizeLeft": 2,
+    "Ergonomics": -12
+    },
+    "locales": {
+      "en": {
+        "name": "VKS Vykhlop 12.7x55 680mm barrel",
+        "shortName": "Vykhlop 680",
+        "description": "Barrel for the VKS Vykhlop rifle, 680mm length."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 44521,
+    "handbookPriceRoubles": 18421,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6ab052b6b07a9b85e5577d11": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 44521,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6ab051dcb07a9b85e5577d0c": {
+    "itemTplToClone": "5caf17c9ae92150b30006be1",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/VSSK/vssk_muzzleflash.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "VSK 12.7x55 ST-130 muzzle brake",
+        "shortName": "VSSK",
+        "description": "Muzzle brake for the VSK 12.7x55 ST-130 rifle. Reduces recoil and muzzle rise."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 6100,
+    "handbookPriceRoubles": 3222,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6ab051dcb07a9b85e5577d0d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6100,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6ab05288b07a9b85e5577d0e": {
+    "itemTplToClone": "5caf187cae92157c28402e43",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/VSSK/vssk_silencer.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.92,
+      "Width": 3,
+      "Accuracy": 5,
+      "ExtraSizeLeft": 2,
+      "Recoil": -19,
+      "Ergonomics": -25
+    },
+    "locales": {
+      "en": {
+        "name": "VSK 12.7x55 ST-130 sound suppressor",
+        "shortName": "VSK 12.7x55",
+        "description": "A tactical sound suppressor manufactured by TsKIB for the VSK 12.7x55 bolt-action sniper rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 41253,
+    "handbookPriceRoubles": 19472,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 98
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 98
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6ab05288b07a9b85e5577d0f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 68472,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6ab0539fb07a9b85e5577d12": {
+    "itemTplToClone": "5caf1041ae92157c28402e3f",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/VSSK/vssk_mag.bundle",
+        "rcid": ""
+      },
+    "Cartridges": [
+      {
+        "_id": "5caf1041ae92157c28402e41",
+        "_max_count": 5,
+        "_name": "cartridges",
+        "_parent": "5caf1041ae92157c28402e3f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6ab04b7fb07a9b85e5577d03",
+                "6ab04c9ab07a9b85e5577d06"
+              ]
+            }
+          ]
+        },
+        "_proto": "5748538b2459770af276a261"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "VKS Vykhlop 12.7x55 5-round magazine",
+        "shortName": "VKS 5rd",
+        "description": "A 5-round 12.7x55 polymer magazine for VKS Vykhlop rifles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 5332,
+    "handbookPriceRoubles": 2331,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6ab0539fb07a9b85e5577d13": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5332,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6ab053d1b07a9b85e5577d14": {
+    "itemTplToClone": "5c17804b2e2216152006c02f",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/VSSK/vssk_front_sight.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Weight": 0.021
+    },
+    "locales": {
+      "en": {
+        "name": "VKS Vykhlop front sight",
+        "shortName": "VKS FS",
+        "description": "A front sight for VKS Vykhlop rifles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_front"
+    ],
+    "fleaPriceRoubles": 3600,
+    "handbookPriceRoubles": 1123,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6ab053d1b07a9b85e5577d15": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3600,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6ab05441b07a9b85e5577d16": {
+    "itemTplToClone": "5bb20e49d4351e3bac1212de",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/VSSK/vssk_rear.bundle",
+        "rcid": ""
+      },
+      "Slots": [],
+      "ExaminedByDefault": true,
+      "Weight": 0.021
+    },
+    "locales": {
+      "en": {
+        "name": "VKS Vykhlop rear sight",
+        "shortName": "VKS RS",
+        "description": "Rear sight for the VKS Vykhlop rifle"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 3600,
+    "handbookPriceRoubles": 1123,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6ab05441b07a9b85e5577d17": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3600,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6ab06ad9b07a9b85e5577d18": {
+    "itemTplToClone": "56ea8222d2720b69698b4567",
+    "parentId": "55818afb4bdc2dde698b456d",
+    "handbookParentId": "5b5f71c186f77409407a7ec0",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/VSSK/vssk_bipod.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "VSSK Bipod",
+        "shortName": "VSSK",
+        "description": "A bipod for the VSSK sniper rifle"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 2780,
+    "handbookPriceRoubles": 1233,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "6ab06ad9b07a9b85e5577d19": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3452,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

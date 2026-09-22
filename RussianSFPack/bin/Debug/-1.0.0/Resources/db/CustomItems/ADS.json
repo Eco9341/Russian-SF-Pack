@@ -390,6 +390,8 @@
         "path": "Mods/ADS/ads_muzzle.bundle",
         "rcid": ""
       },
+    "Slots": [
+    ],
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false
     },

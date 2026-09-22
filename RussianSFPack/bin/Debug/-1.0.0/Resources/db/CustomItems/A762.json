@@ -511,6 +511,8 @@
           "path": "Mods/A762/a762_muzzle.bundle",
           "rcid": ""
       },
+    "Slots": [
+    ],
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false
       },
