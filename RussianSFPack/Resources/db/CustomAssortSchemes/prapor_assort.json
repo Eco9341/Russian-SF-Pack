@@ -907,6 +907,84 @@
             "StackObjectsCount": 999999,
             "BuyRestrictionMax": 0
         }
+    },
+    {
+      "_id": "6ab3a9f6ef5ce8205c131ce4",
+      "_tpl": "6aac31fac35219b1cf4d2a84",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 1,
+        "UnlimitedCount": false,
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "6ab3a8d9a84a957b64a9f1d0",
+      "_tpl": "6ab04d66b07a9b85e5577d0a",
+      "parentId": "6ab3a9f6ef5ce8205c131ce4",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "6ab3a8d9a84a957b64a9f1d1",
+      "_tpl": "6ab05441b07a9b85e5577d16",
+      "parentId": "6ab3a9f6ef5ce8205c131ce4",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_id": "6ab3a8d9a84a957b64a9f1d2",
+      "_tpl": "6ab0539fb07a9b85e5577d12",
+      "parentId": "6ab3a9f6ef5ce8205c131ce4",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6ab3a8d9a84a957b64a9f1d3",
+      "_tpl": "6ab053d1b07a9b85e5577d14",
+      "parentId": "6ab3a9f6ef5ce8205c131ce4",
+      "slotId": "mod_sight_front",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_id": "6ab3a8d9a84a957b64a9f1d4",
+      "_tpl": "6ab06ad9b07a9b85e5577d18",
+      "parentId": "6ab3a9f6ef5ce8205c131ce4",
+      "slotId": "mod_bipod"
+    },
+    {
+      "_id": "6ab3a8d9a84a957b64a9f1d5",
+      "_tpl": "6ab05288b07a9b85e5577d0e",
+      "parentId": "6ab3a8d9a84a957b64a9f1d0",
+      "slotId": "mod_muzzle"
     }
   ],
   "barter_scheme": {
@@ -1013,6 +1091,14 @@
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
+    ],
+    "6ab3a9f6ef5ce8205c131ce4": [
+      [
+        {
+          "count": 72423,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
     ]
   },
   "loyal_level_items": {
@@ -1028,7 +1114,8 @@
     "6aa99191ea9565836452da27": 2,
     "6aaace8c00496ba27842c50c": 3,
     "6ab04bc8b07a9b85e5577d05": 3,
-    "6ab04cc4b07a9b85e5577d07": 3
+    "6ab04cc4b07a9b85e5577d07": 3,
+    "6ab3a9f6ef5ce8205c131ce4": 3
   }
     }
 }
