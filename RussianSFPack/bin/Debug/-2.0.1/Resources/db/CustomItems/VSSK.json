@@ -26,7 +26,7 @@
           ]
         },
         "_proto": "55d30c4c4bdc2db4468b457e",
-        "_required": false
+        "_required": true
       },
       {
         "_id": "5cadfbf7ae92152ac412eef7",
@@ -205,11 +205,14 @@
         "_required": false
       }
     ],
+    "ammoCaliber": "Caliber127x55ST130",
     "CenterOfImpact": 0.01,
     "Weight": 4.45,
     "weapFireType": [
       "single"
     ],
+    "BoltAction": true,
+    "CanQueueSecondShot": false,
     "Chambers": [
       {
         "_id": "5cadfbf7ae92152ac412eef1",
@@ -231,7 +234,7 @@
       }
     ],
     "defAmmo": "6ab04b7fb07a9b85e5577d03",
-    "defMagType": "5caf1041ae92157c28402e3f",
+    "defMagType": "6ab0539fb07a9b85e5577d12",
     "AllowFeed": false,
     "AllowJam": false,
     "AllowOverheat": false,
@@ -247,12 +250,96 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 140000,
-    "handbookPriceRoubles": 90000,
-    "addtoTraders": true,
+    "fleaPriceRoubles": 93800,
+    "handbookPriceRoubles": 34322,
+    "addtoTraders": false,
     "masteries": true,
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6ab3a9f6ef5ce8205c131ce7",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "VSSK",
+        "_parent": "6ab3a9f6ef5ce8205c131ce8",
+        "_items": [
+          {
+            "_id": "6ab3a9f6ef5ce8205c131ce8",
+            "_tpl": "6aac31fac35219b1cf4d2a84",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6ab3a8d9a84a957b64a9f1d0",
+            "_tpl": "6ab04d66b07a9b85e5577d0a",
+            "parentId": "6ab3a9f6ef5ce8205c131ce8",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6ab3a8d9a84a957b64a9f1d1",
+            "_tpl": "6ab05441b07a9b85e5577d16",
+            "parentId": "6ab3a9f6ef5ce8205c131ce8",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6ab3a8d9a84a957b64a9f1d2",
+            "_tpl": "6ab0539fb07a9b85e5577d12",
+            "parentId": "6ab3a9f6ef5ce8205c131ce8",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6ab3a8d9a84a957b64a9f1d3",
+            "_tpl": "6ab053d1b07a9b85e5577d14",
+            "parentId": "6ab3a9f6ef5ce8205c131ce8",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6ab3a8d9a84a957b64a9f1d4",
+            "_tpl": "6ab06ad9b07a9b85e5577d18",
+            "parentId": "6ab3a9f6ef5ce8205c131ce8",
+            "slotId": "mod_bipod"
+          },
+          {
+            "_id": "6ab3a8d9a84a957b64a9f1d5",
+            "_tpl": "6ab05288b07a9b85e5577d0e",
+            "parentId": "6ab3a8d9a84a957b64a9f1d0",
+            "slotId": "mod_muzzle"
+          }
+        ],
+        "_encyclopedia": "6aac31fac35219b1cf4d2a84"
+      }
+    ],
     "traders": {
       "PRAPOR": {
         "6aac31fac35219b1cf4d2a83": {
@@ -498,9 +585,9 @@
     },
     "locales": {
       "en": {
-        "name": "VSK 12.7x55 ST-130 muzzle brake",
+        "name": "VKS 12.7x55 ST-130 muzzle brake",
         "shortName": "VSSK",
-        "description": "Muzzle brake for the VSK 12.7x55 ST-130 rifle. Reduces recoil and muzzle rise."
+        "description": "Muzzle brake for the VKS 12.7x55 ST-130 rifle. Reduces recoil and muzzle rise."
       }
     },
     "addtoInventorySlots": [],
@@ -587,9 +674,9 @@
     },
     "locales": {
       "en": {
-        "name": "VSK 12.7x55 ST-130 sound suppressor",
-        "shortName": "VSK 12.7x55",
-        "description": "A tactical sound suppressor manufactured by TsKIB for the VSK 12.7x55 bolt-action sniper rifle."
+        "name": "VKS 12.7x55 ST-130 sound suppressor",
+        "shortName": "VKS 12.7x55",
+        "description": "A tactical sound suppressor manufactured by TsKIB for the VKS 12.7x55 bolt-action sniper rifle."
       }
     },
     "addtoInventorySlots": [],
@@ -926,8 +1013,8 @@
     },
     "locales": {
       "en": {
-        "name": "VSSK Bipod",
-        "shortName": "VSSK",
+        "name": "VKS Vykhlop Bipod",
+        "shortName": "VKS",
         "description": "A bipod for the VSSK sniper rifle"
       }
     },
