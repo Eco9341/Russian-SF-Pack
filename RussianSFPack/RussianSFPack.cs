@@ -9,7 +9,7 @@ namespace RussianSFPack;
 
 public record ModMetadata : IModMetadata
 {
-    public string ModGuid { get; init; } = "com.wtt.russiansfpack";
+    public string ModGuid { get; init; } = "com.eco.russiansfpack";
     public string Name { get; init; } = "Russian-SF-Pack";
     public string Author { get; init; } = "Eco";
     public List<string>? Contributors { get; init; } = null;
