@@ -1,0 +1,1124 @@
+{
+  "6ab8f27ddc833ad3514d65d0": {
+    "itemTplToClone": "627e14b21713922ded6f2c15",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ORSIS_127x99/weapon_orsis_12_7_container.bundle",
+        "rcid": ""
+      },
+    "Chambers": [
+      {
+        "_id": "627e14b21713922ded6f2c1a",
+        "_mergeSlotWithChildren": false,
+        "_name": "patron_in_weapon",
+        "_parent": "627e14b21713922ded6f2c15",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "67d41936f378a36c4706eeb9",
+                "67dc212493ce32834b0fa446",
+                "67dc255ee3028a8b120efc48",
+                "67dc2648ba5b79876906a166"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d4af244bdc2d962f8b4571",
+        "_required": false
+      }
+    ],
+    "Slots": [
+      {
+        "_id": "627e14b21713922ded6f2c16",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "627e14b21713922ded6f2c15",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": 0,
+              "Filter": [
+                "6aba371a7f9139f423daa415"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_id": "6281330b10e26c1f344e655b",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_pistol_grip",
+        "_parent": "627e14b21713922ded6f2c15",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aba380a7f9139f423daa419"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "62813313d23f207deb0ab21a",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_charge",
+        "_parent": "627e14b21713922ded6f2c15",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6ab96f3d6433b71a60be548f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "62811e2510e26c1f344e6555",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock",
+        "_parent": "62811e2510e26c1f344e6554",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aba38d87f9139f423daa41b"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "62815b5f308cb521f87a8faf",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_reciever",
+        "_parent": "62811e2510e26c1f344e6554",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aba36847f9139f423daa414"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      }
+    ],
+    "Width": 3,
+    "Weight": 4.031,
+    "RecoilForceBack": 1163,
+    "RecoilForceUp": 624,
+    "RecoilDampingHandRotation": 0.88,
+    "defAmmo": "67d41936f378a36c4706eeb9",
+    "defMagType": "67d418d0ffb910d21f04720e",
+    "ammoCaliber": "Caliber127x99"
+    },
+    "locales": {
+      "en": {
+        "name": "ORSIS T-5000M .50 BMG bolt-action anti-materiel rifle",
+        "shortName": "T-5000 12.7",
+        "description": "ORSIS T-5000M is a Russian bolt-action sniper rifle. It was the first product developed by ORSIS, and is produced in their Moscow factory. The rifle was introduced in 2011 at the international exhibition of Russian weapons in Nizhny Tagil, and is entirely original, using no third-party components. The rifle ensures maximum comfort of the user while aiming and shooting, featuring a quick sighting line recovery, high reliability and ergonomics. The stainless steel barrel has a thread for installing a muzzle brake-compensator or a sound suppressor. The equipped muzzle brake-compensator effectively reduces impulse and allows the most comfortable recoil handling. Variant of T-5000 chambered in 12.7 × 99 mm known as the ORSIS 12.7, intended for anti-materiel roles. This variant was first introduced during the ARMY-2022 exhibition held in Russia in August 2022."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 184762,
+    "handbookPriceRoubles": 156221,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6aba4ac2f3fb233b4819f5aa",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "ORSIS 127",
+        "_parent": "6aba4ac2f3fb233b4819f5ab",
+        "_items": [
+          {
+            "_id": "6aba4ac2f3fb233b4819f5ab",
+            "_tpl": "6ab8f27ddc833ad3514d65d0",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6aba4abff3fb233b4819f3f5",
+            "_tpl": "6aba371a7f9139f423daa415",
+            "parentId": "6aba4ac2f3fb233b4819f5ab",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6aba4abff3fb233b4819f3f6",
+            "_tpl": "6aba380a7f9139f423daa419",
+            "parentId": "6aba4ac2f3fb233b4819f5ab",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6aba4abff3fb233b4819f3f7",
+            "_tpl": "6ab96f3d6433b71a60be548f",
+            "parentId": "6aba4ac2f3fb233b4819f5ab",
+            "slotId": "mod_charge"
+          },
+          {
+            "_id": "6aba4abff3fb233b4819f3f8",
+            "_tpl": "6aba38d87f9139f423daa41b",
+            "parentId": "6aba4ac2f3fb233b4819f5ab",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6aba4abff3fb233b4819f3f9",
+            "_tpl": "6aba36847f9139f423daa414",
+            "parentId": "6aba4ac2f3fb233b4819f5ab",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6aba4abff3fb233b4819f3fa",
+            "_tpl": "6aa1c6a6a10e3944e7f07fd8",
+            "parentId": "6aba4abff3fb233b4819f3f9",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6aba4abff3fb233b4819f3fb",
+            "_tpl": "5bc09a18d4351e003562b68e",
+            "parentId": "6aba4abff3fb233b4819f3f9",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6aba4abff3fb233b4819f3fc",
+            "_tpl": "5bc09a30d4351e00367fb7c8",
+            "parentId": "6aba4abff3fb233b4819f3f9",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6aba4abff3fb233b4819f3fd",
+            "_tpl": "6aba37937f9139f423daa417",
+            "parentId": "6aba4abff3fb233b4819f3fa",
+            "slotId": "mod_muzzle"
+          }
+        ],
+        "_encyclopedia": "6ab8f27ddc833ad3514d65d0"
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6ab8f27ddc833ad3514d65cf": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 175,
+        "Level3": 400,
+        "Name": "VSSK",
+        "Templates": [
+          "6aac31fac35219b1cf4d2a84"
+        ]
+      }
+    ]
+  },
+  "6ab96f3d6433b71a60be548f": {
+    "itemTplToClone": "673cb4054ff4aa8f86076f4a",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+    "Prefab": {
+        "path": "Mods/ORSIS_127x99/orsis_127_charge.bundle",
+        "rcid": ""
+    }
+    },
+    "locales": {
+    "en": {
+        "name": "ORSIS T-5000M .50 BMG Rifle bolt assembly",
+        "shortName": "BFG-50",
+        "description": "A .50 BMG bolt assembly for the ORSIS T-5000M sniper rifle."
+    }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+    "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 200052,
+    "handbookPriceRoubles": 13421,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+    {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+    },
+    {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+    },
+    {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+    },
+    {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+    }
+    ],
+    "traders": {
+    "PRAPOR": {
+        "6ab96f3d6433b71a60be5490": {
+        "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+        },
+        "barters": [
+            {
+            "count": 25231,
+            "_tpl": "MONEY_ROUBLES"
+            }
+        ]
+        }
+    }
+    }
+  },
+  "6aba36847f9139f423daa414": {
+    "itemTplToClone": "5df25d3bfd6b4e6e2276dc9a",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/ORSIS_127x99/orsis_127_receiver.bundle",
+        "rcid": ""
+      },
+    "ExtraSizeLeft": 2,
+    "Slots": [
+      {
+        "_id": "62811fbf09427b40ab14e768",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope_000",
+        "_parent": "62811fbf09427b40ab14e767",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57ac965c24597706be5f975c",
+                "57aca93d2459771f2c7e26db",
+                "544a3f024bdc2d1d388b4568",
+                "544a3a774bdc2d3a388b4567",
+                "5d2dc3e548f035404a1a4798",
+                "57adff4f24597737f373b6e6",
+                "626bb8532c923541184624b4",
+                "5c0517910db83400232ffee5",
+                "591c4efa86f7741030027726",
+                "570fd79bd2720bc7458b4583",
+                "570fd6c2d2720bc6458b457f",
+                "558022b54bdc2dac148b458d",
+                "5c07dd120db834001c39092d",
+                "5c0a2cec0db834001b7ce47d",
+                "58491f3324597764bc48fa02",
+                "584924ec24597768f12ae244",
+                "5b30b0dc5acfc400153b7124",
+                "6165ac8c290d254f5e6b2f6c",
+                "60a23797a37c940de7062d02",
+                "5d2da1e948f035477b1ce2ba",
+                "5c0505e00db834001b735073",
+                "609a63b6e2ff132951242d09",
+                "584984812459776a704a82a6",
+                "59f9d81586f7744c7506ee62",
+                "570fd721d2720bc5458b4596",
+                "57ae0171245977343c27bfcf",
+                "5dfe6104585a0c3e995c7b82",
+                "544a3d0a4bdc2d1b388b4567",
+                "5d1b5e94d7ad1a2b865a96b0",
+                "609bab8b455afd752b2e6138",
+                "62811f461d5df4475f46a332",
+                "58d39d3d86f77445bb794ae7",
+                "616554fe50224f204c1da2aa",
+                "5c7d55f52e221644f31bff6a",
+                "616584766ef05c2ce828ef57",
+                "5b3b6dc75acfc47a8773fb1e",
+                "615d8d878004cc50514c3233",
+                "5b2389515acfc4771e1be0c0",
+                "577d128124597739d65d0e56",
+                "618b9643526131765025ab35",
+                "618bab21526131765025ab3f",
+                "5c86592b2e2216000e69e77c",
+                "5a37ca54c4a282000d72296a",
+                "5d0a29fed7ad1a002769ad08",
+                "5c064c400db834001d23f468",
+                "58d2664f86f7747fec5834f6",
+                "57c69dd424597774c03b7bbc",
+                "5b3b99265acfc4704b4a1afb",
+                "5aa66a9be5b5b0214e506e89",
+                "5aa66c72e5b5b00016327c93",
+                "5c1cdd302e221602b3137250",
+                "61714b2467085e45ef140b2c",
+                "6171407e50224f204c1da3c5",
+                "61713cc4d8e3106d9806c109",
+                "5b31163c5acfc400153b71cb",
+                "5a33b652c4a28232996e407c",
+                "5a33b2c9c4a282000c5a9511",
+                "59db7eed86f77461f8380365",
+                "5a1ead28fcdbcb001912fa9f",
+                "5dff77c759400025ea5150cf",
+                "63fc449f5bd61c6cf3784a88",
+                "6477772ea8a38bb2050ed4db",
+                "6478641c19d732620e045e17",
+                "64785e7c19d732620e045e15",
+                "65392f611406374f82152ba5",
+                "653931da5db71d30ab1d6296",
+                "655f13e0a246670fb0373245",
+                "6567e751a715f85433025998",
+                "67641a851b2899700609901a",
+                "6761759e7ee06333f108bf86"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "62811fbf09427b40ab14e769",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_barrel",
+        "_parent": "62811fbf09427b40ab14e767",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6aa1c6a6a10e3944e7f07fd8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "62811fbf09427b40ab14e76b",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_rear",
+        "_parent": "62811fbf09427b40ab14e767",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5bb20e49d4351e3bac1212de",
+                "5ba26b17d4351e00367f9bdd",
+                "5dfa3d7ac41b2312ea33362a",
+                "5c1780312e221602b66cc189",
+                "5fb6564947ce63734e3fa1da",
+                "5bc09a18d4351e003562b68e",
+                "5c18b9192e2216398b5a8104",
+                "5fc0fa957283c4046c58147e",
+                "5894a81786f77427140b8347",
+                "55d5f46a4bdc2d1b198b4567",
+                "5ae30bad5acfc400185c2dc4"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c0",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c1",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_001",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c2",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_mount_002",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5b7be47f5acfc400170e2dd2",
+                "6269220d70b6c02e665f2635",
+                "6269545d0e57f218e4548ca2",
+                "669a6a4a525be1d2d004b8eb",
+                "671126b049e181972e0681fa"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c3",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_tactical_000",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57fd23e32459772d0805bcf1",
+                "544909bb4bdc2d6f028b4577",
+                "5d10b49bd7ad1a1a560708b0",
+                "5c06595c0db834001a66af6c",
+                "5a7b483fe899ef0016170d15",
+                "61605d88ffa6e502ac5e7eeb",
+                "5c5952732e2216398b5abda2",
+                "644a3df63b0b6f03e101e065"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c4",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_scope",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5649a2464bdc2d91118b45a8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5ea16ada09aa976f2e7a51c6",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_sight_front",
+        "_parent": "5ea16ada09aa976f2e7a51be",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ba26b01d4351e0085325a51",
+                "5dfa3d950dee1b22f862eae0",
+                "5c17804b2e2216152006c02f",
+                "5fb6567747ce63734e3fa1dc",
+                "5bc09a30d4351e00367fb7c8",
+                "5c18b90d2e2216152142466b",
+                "5fc0fa362770a0045c59c677",
+                "5894a73486f77426d259076c",
+                "55d4af3a4bdc2d972f8b456f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ],
+    "Weight": 5.46
+    },
+    "locales": {
+      "en": {
+        "name": "ORSIS T-5000M upper receiver",
+        "shortName": "T-5000M",
+        "description": "An upper receiver for the T-5000M sniper rifle manufactured by Accuracy International. Equipped with a mount for attaching additional devices."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 23611,
+    "handbookPriceRoubles": 18327,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6aba36847f9139f423daa413": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 23611,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6aba371a7f9139f423daa415": {
+    "itemTplToClone": "67d418d0ffb910d21f04720e",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/ORSIS_127x99/orsis_127_mag.bundle",
+        "rcid": ""
+      },
+    "Cartridges": [
+      {
+        "_id": "67d418d0ffb910d21f047210",
+        "_max_count": 5,
+        "_name": "cartridges",
+        "_parent": "67d418d0ffb910d21f04720e",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "67d41936f378a36c4706eeb9",
+                "67dc212493ce32834b0fa446",
+                "67dc255ee3028a8b120efc48",
+                "67dc2648ba5b79876906a166"
+              ]
+            }
+          ]
+        },
+        "_proto": "5748538b2459770af276a261"
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "T-5000M .50 BMG 5-round magazine",
+        "shortName": "T-5000M",
+        "description": "A 5-round .50 BMG polymer magazine for the T-5000M sniper rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 12612,
+    "handbookPriceRoubles": 9673,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aba371a7f9139f423daa416": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 12612,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6aba37937f9139f423daa417": {
+    "itemTplToClone": "67d41883f378a36c4706eeb7",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/ORSIS_127x99/orsis_127_muzzle.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+    ],
+    "Recoil": -10,
+    "Ergonomics": -6,
+    "Weight": 0.24
+    },
+    "locales": {
+      "en": {
+        "name": "T-5000M .50 BMG muzzle brake",
+        "shortName": "T-5000M",
+        "description": "Muzzle brake for the T-5000M sniper rifle. Reduces recoil and muzzle rise."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 21342,
+    "handbookPriceRoubles": 17634,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aba37937f9139f423daa418": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 21342,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aba380a7f9139f423daa419": {
+    "itemTplToClone": "5df38a5fb74cd90030650cb6",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/ORSIS_127x99/orsis_127_grip.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "ORSIS T-5000M 12.7 pistol grip",
+        "shortName": "T-5000M",
+        "description": "An ergonomic pistol grip for the T-5000M bolt-action sniper rifle, manufactured by ORSIS."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 2700,
+    "handbookPriceRoubles": 1343,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aba380a7f9139f423daa41a": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 2700,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "6aa1c6a6a10e3944e7f07fd8": {
+    "itemTplToClone": "67d4178bffb910d21f04720a",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/ORSIS_127x99/orsis_127_barrel.bundle",
+        "rcid": ""
+      },
+    "ExtraSizeLeft": 2,
+    "Slots": [
+      {
+        "_id": "67d4178bffb910d21f04720c",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "67d4178bffb910d21f04720a",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "67d41883f378a36c4706eeb7",
+                "6aba37937f9139f423daa417"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      }
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "T-5000M .50 BMG 24 inch barrel",
+        "shortName": "T-5000M 24\"",
+        "description": "Barrel for the T-5000M rifle, 24 inch length."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 34113,
+    "handbookPriceRoubles": 12331,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aa1c6a6a10e3944e7f07fd7": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 34113,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6aba38d87f9139f423daa41b": {
+    "itemTplToClone": "5df35ddddfc58d14537c2036",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/ORSIS_127x99/orsis_127_stock.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "ORSIS T-5000M 12.7 stock",
+        "shortName": "T-5000M",
+        "description": "A standard-issue stock for T-5000M sniper rifles, manufactured by ORSIS."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 3150,
+    "handbookPriceRoubles": 2321,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6aba38d87f9139f423daa41c": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3150,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

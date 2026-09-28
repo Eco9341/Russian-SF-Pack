@@ -60,3 +60,4 @@ C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.1\Russian-SF-Pac
 C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.1\Russian-SF-Pack.deps.json
 C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.1\Russian-SF-Pack.dll
 C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.1\Russian-SF-Pack.pdb
+C:\SPT 4.0\MOD_DEV\Russian-SF-Pack\RussianSFPack\bin\Debug\-1.0.1\Resources\db\CustomItems\ORSIS_127x99.json

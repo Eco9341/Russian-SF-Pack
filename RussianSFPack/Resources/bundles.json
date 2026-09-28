@@ -413,6 +413,22 @@
             ]
         },
         {
+            "key": "Mods/A762/a762_handguard_railed.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/A762/a762_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/A762/a762_handguard_mlok.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/A762/a762_textures.bundle"
+            ]
+        },
+        {
             "key": "Mods/A762/a762_stock.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -426,6 +442,14 @@
                 "shaders",
                 "cubemaps",
                 "Mods/A762/a762_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/A762/a762_silencer.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/content/items/mods/silencers/silencer_all_rotor_43_v2.bundle"
             ]
         },
         {
@@ -1000,6 +1024,86 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/ORSIS_127x99/weapon_orsis_12_7_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "Mods/ORSIS_127x99/orsis_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/ORSIS_127x99/orsis_textures.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+            "key": "Mods/ORSIS_127x99/orsis_127_charge.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/ORSIS_127x99/orsis_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/ORSIS_127x99/orsis_127_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/ORSIS_127x99/orsis_textures.bundle",
+                "assets/content/items/mods/barrels/barrel_ak50_theakguy_std_612mm_127x99.bundle"
+            ]
+        },
+        {
+            "key": "Mods/ORSIS_127x99/orsis_127_grip.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/ORSIS_127x99/orsis_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/ORSIS_127x99/orsis_127_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/ORSIS_127x99/orsis_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/ORSIS_127x99/orsis_127_muzzle.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/ORSIS_127x99/orsis_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/ORSIS_127x99/orsis_127_receiver.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/ORSIS_127x99/orsis_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/ORSIS_127x99/orsis_127_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "Mods/ORSIS_127x99/orsis_textures.bundle"
             ]
         }
     ]
