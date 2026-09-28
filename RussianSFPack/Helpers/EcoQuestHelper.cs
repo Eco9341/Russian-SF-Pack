@@ -15,6 +15,7 @@ namespace RussianSFPack.Helpers
         // ReSharper disable IdentifierTypo
         //snipers
         private const string VSSK = "6aac31fac35219b1cf4d2a84";
+        private const string ORSIS_12_7 = "6ab8f27ddc833ad3514d65d0";
         
         //shotguns
         private const string VEPR12 = "6aa59cd69d536417f3e88939";
@@ -85,7 +86,7 @@ namespace RussianSFPack.Helpers
 
             // Connections Up North (6764174c86addd02bc033d68)
             questHelper.AddWeaponsToKillCondition(quests, "6764174c86addd02bc033d68", [
-              VSSK
+              VSSK, ORSIS_12_7
             ]);
 
             // ====================== PEACEKEEPER QUESTS ======================
@@ -104,7 +105,7 @@ namespace RussianSFPack.Helpers
 
             var tarkovShooterWeapons = new[]
             {
-                VSSK
+                VSSK, ORSIS_12_7
             };
 
             // Tarkov Shooter Part 1-8 (WEAPONS)
@@ -134,12 +135,12 @@ namespace RussianSFPack.Helpers
 //
             // Psycho Sniper (5c0be13186f7746f016734aa)
             questHelper.AddWeaponsToKillCondition(quests, "5c0be13186f7746f016734aa", [
-                VSSK
+                VSSK, ORSIS_12_7
             ]);
 
             // Shooter Born in Heaven (5c0bde0986f77479cf22c2f8)
             questHelper.AddWeaponsToKillCondition(quests, "5c0bde0986f77479cf22c2f8", [
-                VSSK
+                VSSK, ORSIS_12_7
             ]);
 
             // Make Amends Equipment (6261482fa4eb80027c4f2e11)
