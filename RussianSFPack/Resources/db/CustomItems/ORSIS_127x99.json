@@ -125,7 +125,15 @@
     "Width": 4,
     "Weight": 4.031,
     "RecoilForceBack": 1163,
-    "RecoilForceUp": 624,
+    "RecoilForceUp": 624, 
+    "BaseMalfunctionChance": 0.2310,
+    "CoolFactorGun": 4.608,
+    "DoubleActionAccuracyPenalty": 1.5,
+    "DurabilityBurnRatio": 1.15,
+    "HeatFactorByShot": 6.72,
+    "HipInnaccuracyGain": 0.16,
+    "OperatingResource": 2500,
+    "Velocity": 1.81,
     "RecoilDampingHandRotation": 0.88,
     "defAmmo": "67d41936f378a36c4706eeb9",
     "defMagType": "67d418d0ffb910d21f04720e",
@@ -133,8 +141,8 @@
     },
     "locales": {
       "en": {
-        "name": "ORSIS T-5000M .50 BMG bolt-action anti-materiel rifle",
-        "shortName": "T-5000 12.7",
+        "name": "ORSIS 12.7 .50 BMG bolt-action anti-materiel rifle",
+        "shortName": "ORSIS 12.7",
         "description": "ORSIS T-5000M is a Russian bolt-action sniper rifle. It was the first product developed by ORSIS, and is produced in their Moscow factory. The rifle was introduced in 2011 at the international exhibition of Russian weapons in Nizhny Tagil, and is entirely original, using no third-party components. The rifle ensures maximum comfort of the user while aiming and shooting, featuring a quick sighting line recovery, high reliability and ergonomics. The stainless steel barrel has a thread for installing a muzzle brake-compensator or a sound suppressor. The equipped muzzle brake-compensator effectively reduces impulse and allows the most comfortable recoil handling. Variant of T-5000 chambered in 12.7 × 99 mm known as the ORSIS 12.7, intended for anti-materiel roles. This variant was first introduced during the ARMY-2022 exhibition held in Russia in August 2022."
       }
     },
@@ -271,9 +279,9 @@
       {
         "Level2": 175,
         "Level3": 400,
-        "Name": "VSSK",
+        "Name": "ORSIS 12.7",
         "Templates": [
-          "6aac31fac35219b1cf4d2a84"
+          "6ab8f27ddc833ad3514d65d0"
         ]
       }
     ]
@@ -290,9 +298,9 @@
     },
     "locales": {
     "en": {
-        "name": "ORSIS T-5000M .50 BMG Rifle bolt assembly",
-        "shortName": "BFG-50",
-        "description": "A .50 BMG bolt assembly for the ORSIS T-5000M sniper rifle."
+        "name": "ORSIS 12.7 .50 BMG Rifle bolt assembly",
+        "shortName": "ORSIS 12.7",
+        "description": "A .50 BMG bolt assembly for the ORSIS 12.7 sniper rifle."
     }
     },
     "addtoInventorySlots": [],
@@ -622,9 +630,9 @@
     },
     "locales": {
       "en": {
-        "name": "ORSIS T-5000M upper receiver",
-        "shortName": "T-5000M",
-        "description": "An upper receiver for the T-5000M sniper rifle manufactured by Accuracy International. Equipped with a mount for attaching additional devices."
+        "name": "ORSIS 12.7 upper receiver",
+        "shortName": "ORSIS 12.7",
+        "description": "An upper receiver for the ORSIS 12.7 sniper rifle manufactured by Accuracy International. Equipped with a mount for attaching additional devices."
       }
     },
     "addtoInventorySlots": [],
@@ -706,9 +714,9 @@
     },
     "locales": {
       "en": {
-        "name": "T-5000M .50 BMG 5-round magazine",
-        "shortName": "T-5000M",
-        "description": "A 5-round .50 BMG polymer magazine for the T-5000M sniper rifle."
+        "name": "ORSIS 12.7 .50 BMG 5-round magazine",
+        "shortName": "ORSIS 5rd",
+        "description": "A 5-round .50 BMG polymer magazine for the ORSIS 12.7 sniper rifle."
       }
     },
     "addtoInventorySlots": [],
@@ -786,9 +794,9 @@
     },
     "locales": {
       "en": {
-        "name": "T-5000M .50 BMG muzzle brake",
-        "shortName": "T-5000M",
-        "description": "Muzzle brake for the T-5000M sniper rifle. Reduces recoil and muzzle rise."
+        "name": "ORSIS 12.7 .50 BMG muzzle brake",
+        "shortName": "ORSIS 12.7",
+        "description": "Muzzle brake for the ORSIS 12.7 sniper rifle. Reduces recoil and muzzle rise."
       }
     },
     "addtoInventorySlots": [],
@@ -869,9 +877,9 @@
     },
     "locales": {
       "en": {
-        "name": "ORSIS T-5000M 12.7 pistol grip",
-        "shortName": "T-5000M",
-        "description": "An ergonomic pistol grip for the T-5000M bolt-action sniper rifle, manufactured by ORSIS."
+        "name": "ORSIS 12.7 pistol grip",
+        "shortName": "ORSIS 12.7",
+        "description": "An ergonomic pistol grip for the ORSIS 12.7 bolt-action sniper rifle, manufactured by ORSIS."
       }
     },
     "addtoInventorySlots": [],
@@ -968,9 +976,9 @@
     },
     "locales": {
       "en": {
-        "name": "T-5000M .50 BMG 24 inch barrel",
-        "shortName": "T-5000M 24\"",
-        "description": "Barrel for the T-5000M rifle, 24 inch length."
+        "name": "ORSIS 12.7 .50 BMG 24 inch barrel",
+        "shortName": "ORSIS 24\"",
+        "description": "Barrel for the ORSIS 12.7 rifle, 24 inch length."
       }
     },
   "addtoInventorySlots": [],
@@ -1053,9 +1061,9 @@
     },
     "locales": {
       "en": {
-        "name": "ORSIS T-5000M 12.7 stock",
-        "shortName": "T-5000M",
-        "description": "A standard-issue stock for T-5000M sniper rifles, manufactured by ORSIS."
+        "name": "ORSIS 12.7 stock",
+        "shortName": "ORSIS 12.7",
+        "description": "A standard-issue stock for ORSIS 12.7 sniper rifles, manufactured by ORSIS."
       }
     },
     "addtoInventorySlots": [],
