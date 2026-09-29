@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Russian-SF-Pack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+8e2ab834364251836bbe61024f08abb2603fb816")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+57ab38fa35c3f3cc9b70b6af8cd36d6d47b192e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Russian-SF-Pack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Russian-SF-Pack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

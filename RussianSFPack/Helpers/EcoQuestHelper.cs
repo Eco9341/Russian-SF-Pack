@@ -41,6 +41,7 @@ namespace RussianSFPack.Helpers
         private const string SVDM = "6aa9bd88a1ebc11ab0a6b50c";
         
         // Weapon Mods
+        private const string VSSK_Suppressor = "6ab05288b07a9b85e5577d0e";
         
         public void ModifyQuests()
         {
@@ -125,6 +126,7 @@ namespace RussianSFPack.Helpers
             // Part 1
             
             // Part 7
+            questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", VSSK_Suppressor, "593d489686f7745c6255d58a", true);
 //
 //
 //             
