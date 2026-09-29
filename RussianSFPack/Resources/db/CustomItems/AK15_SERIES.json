@@ -1,0 +1,630 @@
+{
+  "6abb08d60eccb8eb7ef88678": {
+    "itemTplToClone": "6499849fc93611967b034949",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK15_SERIES/weapon_ak15_container.bundle",
+        "rcid": ""
+      },
+    "Chambers": [
+      {
+        "_id": "5ac66d2e5acfc43b321d4b55",
+        "_mergeSlotWithChildren": false,
+        "_name": "patron_in_weapon",
+        "_parent": "5ac66d2e5acfc43b321d4b53",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "59e0d99486f7744a32234762",
+                "59e4d3d286f774176a36250a",
+                "5656d7c34bdc2d9d198b4587",
+                "59e4cf5286f7741778269d8a",
+                "59e4d24686f7741776641ac7",
+                "601aa3d2b2bcb34913271e6d",
+                "64b7af5a8532cf95ee0a0dbd",
+                "64b7af434b75259c590fa893",
+                "64b7af734b75259c590fa895"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d4af244bdc2d962f8b4571",
+        "_required": false
+      }
+    ],
+    "Ergonomics": 44,
+    "Slots": [
+      {
+        "_id": "6499849fc93611967b03494b",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_gas_block",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "649ec107961514b22506b10c"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      },
+      {
+        "_id": "6499849fc93611967b03494c",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_launcher",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5648b62b4bdc2d9d488b4585",
+                "62e7e7bbe6da9612f743f1e0"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "6499849fc93611967b03494d",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "649ec2af961514b22506b10f",
+                "64c196ad26a15b84aa07132f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "6499849fc93611967b03494f",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_reciever",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "649ec2f3961514b22506b111",
+                "6abc1ad7b6dfdacdd9a7bf8b"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "6499849fc93611967b034951",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_stock_001",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5ac50c185acfc400163398d4",
+                "5cf50fc5d7f00c056c53f83c",
+                "5beec8b20db834001961942a",
+                "6386300124a1dc425c00577a",
+                "649ec87d8007560a9001ab36",
+                "6761779c48fa5c377e06fc3f"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "6499849fc93611967b034952",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_magazine",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "59e5d83b86f7745aed03d262",
+                "5a01c29586f77474660c694c",
+                "5ac66bea5acfc43b321d4aec",
+                "59d625f086f774661516605d",
+                "5b1fd4e35acfc40018633c39",
+                "5a0060fc86f7745793204432",
+                "59e5f5a486f7746c530b3ce2",
+                "5b1fb3e15acfc4001637f068",
+                "59d6272486f77466146386ff",
+                "5e21a3c67e40bd02257a008a",
+                "5cbdc23eae9215001136a407",
+                "5c6175362e221600133e3b94",
+                "59fafc5086f7740dbe19f6c3",
+                "59fafc9386f774067d462453",
+                "5cfe8010d7ad1a59283b14c6",
+                "6272874a6c47bd74f92e2087",
+                "64b9cf0ac12b9c38db26923a"
+              ]
+            }
+          ]
+        },
+        "_proto": "55d30c394bdc2dae468b4577",
+        "_required": false
+      },
+      {
+        "_id": "6499849fc93611967b034954",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_charge",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6130ca3fd92c473c77020dbd",
+                "5648ac824bdc2ded0b8b457d"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "649ed407b013f04a700e60fe",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_handguard",
+        "_parent": "6499849fc93611967b034949",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "649ec127c93611967b034957"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      }
+    ],
+    "RecoilForceBack": 356,
+    "RecoilForceUp": 117,
+    "CoolFactorGunMods": 0.9502,
+    "HeatFactorByShot": 1.275,
+    "HeatFactorGun": 0.9355,
+    "defAmmo": "5656d7c34bdc2d9d198b4587",
+    "defMagType": "5ac66bea5acfc43b321d4aec",
+    "ammoCaliber": "Caliber762x39"
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-15 2021 Model 7.62x39 assault rifle",
+        "shortName": "AK-15",
+        "description": "The Kalashnikov AK-15 7.62 automatic rifle is the primary model of individual small arms for personnel of motorized and other units of the Russian Armed Forces. The AK-15 is a part of the Ratnik equipment system."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 55663,
+    "handbookPriceRoubles": 45162,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6abc23d23f13da8e804482e5",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "AK15",
+        "_parent": "6abc23d23f13da8e804482e6",
+        "_items": [
+          {
+            "_id": "6abc23d23f13da8e804482e6",
+            "_tpl": "6abb08d60eccb8eb7ef88678",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "6abc23cd3f13da8e8044812d",
+            "_tpl": "649ec107961514b22506b10c",
+            "parentId": "6abc23d23f13da8e804482e6",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "6abc23cd3f13da8e8044812e",
+            "_tpl": "649ec2af961514b22506b10f",
+            "parentId": "6abc23d23f13da8e804482e6",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6abc23cd3f13da8e8044812f",
+            "_tpl": "6abc1ad7b6dfdacdd9a7bf8b",
+            "parentId": "6abc23d23f13da8e804482e6",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6abc23cd3f13da8e80448130",
+            "_tpl": "6761779c48fa5c377e06fc3f",
+            "parentId": "6abc23d23f13da8e804482e6",
+            "slotId": "mod_stock_001"
+          },
+          {
+            "_id": "6abc23cd3f13da8e80448131",
+            "_tpl": "5ac66bea5acfc43b321d4aec",
+            "parentId": "6abc23d23f13da8e804482e6",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6abc23cd3f13da8e80448132",
+            "_tpl": "649ec127c93611967b034957",
+            "parentId": "6abc23d23f13da8e804482e6",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6abc23cd3f13da8e80448133",
+            "_tpl": "6abc1b24b6dfdacdd9a7bf8d",
+            "parentId": "6abc23cd3f13da8e8044812f",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          }
+        ],
+        "_encyclopedia": "6abb08d60eccb8eb7ef88678"
+      }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a9888aa03930f8d769fde28": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 45828,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 2000,
+        "Level3": 2200,
+        "Name": "AK74",
+        "Templates": [
+          "6abb08d60eccb8eb7ef88678"
+        ]
+      }
+    ]
+  },
+  "6abc1ad7b6dfdacdd9a7bf8b": {
+    "itemTplToClone": "649ec2f3961514b22506b111",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/AK15_SERIES/ak15_receiver.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_sight_rear",
+          "_id": "649ec2f3961514b22506b113",
+          "_parent": "649ec2f3961514b22506b111",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6abc1b24b6dfdacdd9a7bf8d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "649ec2f3961514b22506b112",
+          "_parent": "649ec2f3961514b22506b111",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6478641c19d732620e045e17",
+                  "6477772ea8a38bb2050ed4db",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-15 M-1 dust cover",
+        "shortName": "AK-15 M-1",
+        "description": "Dust cover for the Kalashnikov AK-15 M-1 assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "fleaPriceRoubles": 3694,
+    "handbookPriceRoubles": 2321,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 10
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 10
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6abc1ad7b6dfdacdd9a7bf8c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 6096,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "6abc1b24b6dfdacdd9a7bf8d": {
+    "itemTplToClone": "5bc09a18d4351e003562b68e",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AK15_SERIES/ak15_rear_sight.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-15 M-1 rear sight",
+        "shortName": "AK-15 M-1",
+        "description": "Rear sight for the Kalashnikov AK-15 M-1 assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 920,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "6abc1b24b6dfdacdd9a7bf8e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1518,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

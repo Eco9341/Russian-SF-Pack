@@ -33,12 +33,14 @@ namespace RussianSFPack.Helpers
         private const string AK200 = "6a9888aa03930f8d769fde27";
         private const string AK205 = "6a9954b397425139faf657d3";
         private const string A762 = "6a9d77d61b88e55ada72f237";
+        private const string AK15 = "6abb08d60eccb8eb7ef88678";
         
         //dmr
         private const string SVCH = "6aa07d6955c3a243f195ed5f";
         private const string SVDM = "6aa9bd88a1ebc11ab0a6b50c";
         
         // Weapon Mods
+        private const string VSSK_Suppressor = "6ab05288b07a9b85e5577d0e";
         
         public void ModifyQuests()
         {
@@ -64,7 +66,7 @@ namespace RussianSFPack.Helpers
 
             // District Patrol (64e7b9bffd30422ed03dad38)
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
-                AM17, AMB17, AK200, AK205, ADS, A762
+                AM17, AMB17, AK200, AK205, ADS, A762, AK15
             ]);
 
             // ====================== SKIER QUESTS ======================
@@ -119,10 +121,10 @@ namespace RussianSFPack.Helpers
             questHelper.AddWeaponsToKillCondition(quests, "5bc4893c86f774626f5ebf3e", tarkovShooterWeapons); // Part 8
 
             // Tarkov Shooter Part 1-8 (MODS)
-            
             // Part 1
             
             // Part 7
+            questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", VSSK_Suppressor, "593d489686f7745c6255d58a", true);
 //
 //
 //             
