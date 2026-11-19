@@ -36,7 +36,6 @@
         "_required": false
       }
     ],
-    "Ergonomics": 44,
     "Slots": [
       {
         "_id": "6499849fc93611967b03494b",
@@ -208,14 +207,139 @@
         "_required": true
       }
     ],
-    "RecoilForceBack": 356,
-    "RecoilForceUp": 117,
-    "CoolFactorGunMods": 0.9502,
-    "HeatFactorByShot": 1.275,
-    "HeatFactorGun": 0.9355,
+    "BaseMalfunctionChance": 0.1600,
+    "CenterOfImpact": 0.058,
+    "Ergonomics": 38,
+    "HeatFactorByShot": 1.30,
+    "HeatFactorGun": 0.95,
+    "OperatingResource": 6000,
+    "RecoilCamera": 0.045,
+    "RecoilForceBack": 350,
+    "RecoilForceUp": 125,
+    "RecolDispersion": 9,
+    "bFirerate": 650,
     "defAmmo": "5656d7c34bdc2d9d198b4587",
     "defMagType": "5ac66bea5acfc43b321d4aec",
-    "ammoCaliber": "Caliber762x39"
+    "ammoCaliber": "Caliber762x39",
+    "WeaponRecoilSettings": {
+      "Enable": true,
+      "Values": [
+        {
+          "Enable": true,
+          "Process": {
+            "ComponentType": "Y",
+            "CurveAimingValueMultiply": 0.38,
+            "CurveTimeMultiply": 1.5,
+            "CurveValueMultiply": 0.79,
+            "TransformationCurve": {
+              "Keys": [
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 0,
+                  "value": 0
+                },
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 0.1,
+                  "value": 2
+                },
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 0.3,
+                  "value": -0.75
+                },
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 1,
+                  "value": 0
+                }
+              ]
+            }
+          },
+          "Target": "HandsRotation"
+        },
+        {
+          "Enable": true,
+          "Process": {
+            "ComponentType": "Y",
+            "CurveAimingValueMultiply": 0.0018,
+            "CurveTimeMultiply": 4,
+            "CurveValueMultiply": 0.0023,
+            "TransformationCurve": {
+              "Keys": [
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 0,
+                  "value": 0
+                },
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 0.1,
+                  "value": 2
+                },
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 0.3,
+                  "value": -0.75
+                },
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 1,
+                  "value": 0
+                }
+              ]
+            }
+          },
+          "Target": "HandsPosition"
+        },
+        {
+          "Enable": true,
+          "Process": {
+            "ComponentType": "Z",
+            "CurveAimingValueMultiply": 0.072,
+            "CurveTimeMultiply": 1,
+            "CurveValueMultiply": 0.135,
+            "TransformationCurve": {
+              "Keys": [
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 0,
+                  "value": 0
+                },
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 0.1,
+                  "value": 2
+                },
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 0.3,
+                  "value": -0.75
+                },
+                {
+                  "inTangent": 0,
+                  "outTangent": 0,
+                  "time": 1,
+                  "value": 0
+                }
+              ]
+            }
+          },
+          "Target": "CameraRotation"
+        }
+      ]
+    }
     },
     "locales": {
       "en": {

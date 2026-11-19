@@ -207,7 +207,7 @@
           },
           {
             "_id": "6aba4abff3fb233b4819f3fa",
-            "_tpl": "6aa1c6a6a10e3944e7f07fd8",
+            "_tpl": "6ac3ca10ed92b51f69b6b97b",
             "parentId": "6aba4abff3fb233b4819f3f9",
             "slotId": "mod_barrel"
           },
@@ -455,7 +455,7 @@
           "filters": [
             {
               "Filter": [
-                "6aa1c6a6a10e3944e7f07fd8"
+                "6ac3ca10ed92b51f69b6b97b"
               ],
               "Shift": 0
             }
@@ -941,7 +941,7 @@
     },
     "masterySections": []
   },
-  "6aa1c6a6a10e3944e7f07fd8": {
+  "6ac3ca10ed92b51f69b6b97b": {
     "itemTplToClone": "67d4178bffb910d21f04720a",
     "parentId": "555ef6e44bdc2de9068b457e",
     "handbookParentId": "5b5f75c686f774094242f19f",
@@ -1022,7 +1022,7 @@
     "weaponPresets": [],
     "traders": {
       "PRAPOR": {
-        "6aa1c6a6a10e3944e7f07fd7": {
+        "6ac3cc2ced92b51f69b6b97c": {
           "barterSettings": {
             "loyalLevel": 3,
             "unlimitedCount": true,
