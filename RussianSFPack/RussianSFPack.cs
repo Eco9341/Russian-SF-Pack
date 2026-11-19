@@ -22,7 +22,7 @@ public record ModMetadata : IModMetadata
     };
     public string? Url { get; init; }
     public bool HasPrepatcher { get; init; } = false;
-    public string License { get; init; } = "MIT";
+    public string License { get; init; } = "ARR";
 }
 
 

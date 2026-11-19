@@ -1195,7 +1195,7 @@
     }
   },
   "6a94984fe097b0c6ce414796": {
-    "itemTplToClone": "66867023c3d473265104f384",
+    "itemTplToClone": "645122f6d4928d46d30be3ff",
     "parentId": "555ef6e44bdc2de9068b457e",
     "handbookParentId": "5b5f75c686f774094242f19f",
     "overrideProperties": {
@@ -1204,9 +1204,16 @@
         "path": "Mods/AM17/am17_215_barrel.bundle",
         "rcid": ""
       },
-      "CenterOfImpact": 0.1,
+      "CenterOfImpact": 0.088,
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false,
+      "DeviationCurve": 1.70,
+      "DeviationMax": 14.7,
+      "Ergonomics": 0,
+      "HeatFactor": 1.085,
+      "Recoil": -2,
+      "Velocity": -11.5,
+      "Weight": 0.415,
       "Slots": [
         {
           "_id": "62c6dd965795677ad39019f6",
@@ -1311,9 +1318,16 @@
         "path": "Mods/AM17/am17_260_barrel.bundle",
         "rcid": ""
       },
-      "CenterOfImpact": 0.081,
+      "CenterOfImpact": 0.075,
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false,
+      "DeviationCurve": 1.55,
+      "DeviationMax": 14.0,
+      "Ergonomics": 0,
+      "HeatFactor": 1.070,
+      "Recoil": -3,
+      "Velocity": -7.5,
+      "Weight": 0.465,
       "Slots": [
         {
           "_id": "62c6dd965795677ad39019f6",
@@ -1419,9 +1433,16 @@
         "path": "Mods/AM17/am17_180_barrel.bundle",
         "rcid": ""
       },
-      "CenterOfImpact": 0.104,
+      "CenterOfImpact": 0.095,
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false,
+      "DeviationCurve": 1.80,
+      "DeviationMax": 15.0,
+      "Ergonomics": 0,
+      "HeatFactor": 1.090,
+      "Recoil": -2,
+      "Velocity": -13.5,
+      "Weight": 0.395,
       "Slots": [
         {
           "_id": "62c6dd965795677ad39019f6",
@@ -1526,9 +1547,16 @@
         "path": "Mods/AM17/am17_160_barrel.bundle",
         "rcid": ""
       },
-      "CenterOfImpact": 0.114,
+      "CenterOfImpact": 0.115,
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false,
+      "DeviationCurve": 2.00,
+      "DeviationMax": 16.5,
+      "Ergonomics": 0,
+      "HeatFactor": 1.105,
+      "Recoil": -1,
+      "Velocity": -21.0,
+      "Weight": 0.340,
       "Slots": [
         {
           "_id": "62c6dd965795677ad39019f6",

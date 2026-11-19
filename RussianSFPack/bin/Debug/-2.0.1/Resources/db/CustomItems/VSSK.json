@@ -403,7 +403,8 @@
     "Weight": 0.82,
     "Width": 3,
     "Ergonomics": 4,
-    "ExtraSizeLeft": 0
+    "ExtraSizeLeft": 0,
+    "Velocity": -2.1
     },
     "locales": {
       "en": {
@@ -504,7 +505,8 @@
     "Width": 3,
     "CenterOfImpact": 0.037,
     "ExtraSizeLeft": 2,
-    "Ergonomics": -12
+    "Ergonomics": -12,
+    "Velocity": 5.6
     },
     "locales": {
       "en": {

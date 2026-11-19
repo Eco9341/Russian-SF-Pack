@@ -9,7 +9,7 @@
         "rcid": ""
       },
       "BackgroundColor": "yellow",
-      "CanSellOnRagfair": true,
+      "CanSellOnRagfair": false,
       "Caliber": "Caliber127x55ST130",
       "casingName": "12.7x55 ST130",
       "ArmorDamage": 38,
@@ -87,7 +87,7 @@
         "rcid": ""
       },
       "BackgroundColor": "yellow",
-      "CanSellOnRagfair": true,
+      "CanSellOnRagfair": false,
       "Caliber": "Caliber127x55ST130",
       "casingName": "12.7x55 ST130",
       "ArmorDamage": 72,
